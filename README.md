@@ -1,4 +1,4 @@
-![DestinyGames Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/assets/test.png)
+![DestinyGames Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/test/test.png)
 
 The Pack for Destiny Games! If you use any of the models, textures or sounds in this pack you **HAVE** to reach out to @arctic_foxxyt on discord or atleast give credit of some form!
 
