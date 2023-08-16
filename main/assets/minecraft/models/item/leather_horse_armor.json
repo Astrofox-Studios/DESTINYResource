@@ -1,0 +1,23 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+ "layer0": "item/leather_horse_armor"
+ },
+ 
+ "overrides": [
+ {"predicate": {"custom_model_data":100}, "model": "item/crown1"},
+ {"predicate": {"custom_model_data":101}, "model": "item/bench1"},
+ {"predicate": {"custom_model_data":102}, "model": "item/bench2"},
+ {"predicate": {"custom_model_data":103}, "model": "item/bin1"},
+ {"predicate": {"custom_model_data":104}, "model": "item/pc"},
+ {"predicate": {"custom_model_data":105}, "model": "item/monitor"},
+ {"predicate": {"custom_model_data":106}, "model": "item/toilet"},
+ {"predicate": {"custom_model_data":107}, "model": "cosmetics/ufo1"},
+ {"predicate": {"custom_model_data":108}, "model": "item/gaming_chair"},
+ {"predicate": {"custom_model_data":109}, "model": "item/monitor2"},
+ {"predicate": {"custom_model_data":111}, "model": "item/sign1"},
+ {"predicate": {"custom_model_data":112}, "model": "item/basic_armchair"},
+ {"predicate": {"custom_model_data":113}, "model": "item/advanced_armchair"},
+ {"predicate": {"custom_model_data":114}, "model": "item/computer_keyboard"}
+ ]
+}

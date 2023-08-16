@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/gray_concrete" }
+    }
+}

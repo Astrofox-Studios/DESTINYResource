@@ -1,0 +1,362 @@
+{
+    "providers": [
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [0.0, 0.0],
+            "size": 10.0,
+            "oversample": 1.0
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:item/apple.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/fire.png",
+            "ascent": 9,
+            "height": 9,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/redracoons.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/orangeotters.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/firefoxes.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/limeladybugs.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/greengoats.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/aquaaligators.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/teampoints.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\uE903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/overallpoint.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\uE905"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/actionbar_team.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE906"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/actionbar_yp.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE907"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/teampoints.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\uE903"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/yourpoints.png",
+            "ascent": 12,
+            "height": 12,
+            "chars": [
+                "\uE904"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/tealtigers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bluebadgers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/purplepeacocks.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/pinkpanthers.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "\uE011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/redracoons.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/orangeotters.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/firefoxes.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/limeladybugs.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/greengoats.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/aquaaligators.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/tealtigers.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bluebadgers.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/purplepeacocks.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/sg.png",
+            "ascent": 7,
+            "height": 13,
+            "chars": [
+                "\uE021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/dev.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/builders.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/admin.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/spec.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/wool.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/artist.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/manager.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/mod.png",
+            "ascent": 8,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/hub_hud.png",
+            "ascent": 32,
+            "height": 32,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/player.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/pinkpanthers.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\uE022" 
+            ]
+        }
+    ]
+}

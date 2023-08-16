@@ -1,0 +1,351 @@
+{
+	"sound.custom.coin":{
+		"sounds": [
+           "custom/coin"
+		]
+    },
+	"sound.custom.birds":{
+		"sounds": [
+            {
+                "name": "custom/birds/birds1"
+            },
+            {
+                "name": "custom/birds/birds2"
+            },
+            {
+                "name": "custom/birds/birds3"
+            },
+            {
+                "name": "custom/birds/birds4"
+            },
+            {
+                "name": "custom/birds/birds5"
+            },
+            {
+                "name": "custom/birds/birds6"
+            },
+            {
+                "name": "custom/birds/birds7"
+            },
+            {
+                "name": "custom/birds/birds8"
+            },
+            {
+                "name": "custom/birds/birds9"
+            },
+            {
+                "name": "custom/birds/birds10"
+            }
+
+		]
+    },
+	"sound.custom.death":{
+		"sounds": [
+            {
+				"name": "custom/death/death1"
+			},
+			{
+				"name": "custom/death/death2"
+			},
+			{
+				"name": "custom/death/death3"
+			},
+			{
+				"name": "custom/death/death4"
+			},
+			{
+				"name": "custom/death/death5"
+			}
+		]
+	},
+	"sound.custom.wind":{
+		"sounds": [
+			{
+				"name": "custom/ambientwind/ambientwind1"
+			},
+			{
+				"name": "custom/ambientwind/ambientwind2"
+			},
+			{
+				"name": "custom/ambientwind/ambientwind3"
+			},
+
+			{
+				"name": "custom/ambientgust/ambientgust1"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust2"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust3"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust4"
+			},
+			{
+				"name": "custom/ambientgust/ambientgust5"
+			}
+		]
+
+	},
+	"sound.custom.speed_boost1":{
+		"sounds": [
+			{
+				"name": "custom/speedpad/speedpad1"
+			},
+			{
+				"name": "custom/speedpad/speedpad2"
+			},
+			{
+				"name": "custom/speedpad/speedpad3"
+			},
+			{
+				"name": "custom/speedpad/speedpad4"
+			}
+
+		]
+    },
+		"sound.custom.glide_death":{
+		"sounds": [
+            {
+				"name": "custom/death/death1"
+			},
+			{
+				"name": "custom/death/death2"
+			},
+			{
+				"name": "custom/death/death3"
+			},
+			{
+				"name": "custom/death/death4"
+			}
+
+		]
+    },
+			"sound.custom.glide_ost":{
+		"sounds": [
+			{
+				"name": "custom/glide/glide_1"
+			},
+			{
+				"name": "custom/glide/glide_2"
+			}
+
+		]
+    },
+	
+	"sound.custom.jump_boost1":{
+		"sounds": [
+			{
+				"name": "custom/jumppad/jump_pad1"
+			},
+			{
+				"name": "custom/jumppad/jump_pad2"
+			},
+			{
+				"name": "custom/jumppad/jump_pad3"
+			}
+
+		]
+    },
+	"sound.custom.domination":{
+		"sounds": [
+           "custom/domination"
+
+		]
+    },
+		"sound.custom.speedbri":{
+		"sounds": [
+           "custom/sb"
+
+		]
+    },
+		"sound.custom.glide_best_time":{
+		"sounds": [
+           "custom/best_time"
+
+		]
+    },
+		"sound.custom.glide_best_score":{
+		"sounds": [
+           "custom/best_score"
+
+		]
+    },
+		"sound.custom.glide_boost1":{
+		"sounds": [
+           "custom/boost"
+
+		]
+    },
+	"sound.custom.glide_boost2":{
+		"sounds": [
+           "custom/humid_boost"
+
+		]
+    },
+	"sound.custom.glide_checkpoint":{
+		"sounds": [
+           "custom/checkpoint"
+
+		]
+    },
+	"sound.custom.glide_finish":{
+		"sounds": [
+           "custom/finish_line"
+
+		]
+    },
+	"sound.custom.ping":{
+		"sounds": [
+           "custom/ping"
+
+		]
+    },
+	"sound.custom.tag":{
+		"sounds": [
+           "custom/tag"
+
+		]
+    },
+	"sound.custom.mini_alert":{
+		"sounds": [
+           "custom/mini_alert"
+
+		]
+    },
+	"sound.custom.lobby":{
+		"sounds": [
+           "custom/lobby"
+
+		]
+    },
+	"sound.custom.lobby2":{
+		"sounds": [
+           "custom/lobby2"
+
+		]
+    },
+	"sound.custom.sts":{
+		"sounds": [
+           "custom/sts"
+		]
+    },
+	"sound.custom.rttf":{
+		"sounds": [
+           "custom/race_to_the_finish"
+		]
+    },
+	"sound.custom.dooropen":{
+		"sounds": [
+           "custom/dooropen"
+		]
+    },
+	"sound.custom.fillsand":{
+		"sounds": [
+           "custom/fillsand"
+		]
+    },
+	"sound.custom.fillsand2":{
+		"sounds": [
+           "custom/fillsand2"
+		]
+    },
+	"sound.custom.tick":{
+		"sounds": [
+           "custom/tick"
+		]
+    },
+	"sound.custom.ost":{
+		"sounds": [
+           "custom/ost"
+		]
+    },
+	"sound.custom.startgame":{
+		"sounds": [
+           "custom/startgame"
+		]
+    },
+	"sound.custom.starttimer":{
+		"sounds": [
+           "custom/starttimer"
+		]
+    },
+	"sound.custom.tickhigh":{
+		"sounds": [
+           "custom/tick/tickhigh"
+		]
+    },
+	"sound.custom.ticklow":{
+		"sounds": [
+           "custom/tick/ticklow"
+		]
+    },
+	"sound.custom.tickultralow":{
+		"sounds": [
+           "custom/tick/tickultralow"
+		]
+    },
+	"sound.custom.key":{
+		"sounds": [
+           "custom/key"
+		]
+    },
+	"sound.custom.vault":{
+		"sounds": [
+           "custom/vault"
+		]
+    },
+	"sound.custom.voidhunters":{
+		"sounds": [
+           "custom/voidhunters"
+		]
+
+    },
+	"sound.custom.wing_ring1":{
+		"sounds": [
+           "custom/wing_ring.1"
+		]
+    },
+	"sound.custom.game_end":{
+		"sounds": [
+           "custom/game_end"
+		]
+    },
+	"sound.custom.jump_pad.2":{
+		"sounds": [
+           "custom/games.ace_race.jump_pad.2"
+		]
+    },
+	"sound.custom.map.update":{
+		"sounds": [
+           "custom/games.global.objective.map.update"
+		]
+    },
+	"sound.custom.objective_completed":{
+		"sounds": [
+           "custom/games.global.objective.objective_completed"
+		]
+    },
+	"sound.custom.capturethefslag":{
+		"sounds": [
+           "custom/capturetheflag"
+		]
+    },
+
+	"sound.custom.sb":{
+		"sounds": [
+           "custom/speedbridgers" 
+		]
+    },
+	"sound.custom.win":{
+		"sounds": [
+           "custom/win"
+		]
+    },
+    "sound.custom.droid_music_1":{
+		"sounds": [
+           "custom/corrupteddroid/music/music"
+		]
+    }
+}
