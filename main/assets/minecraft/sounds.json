@@ -124,16 +124,34 @@
     },
 			"sound.custom.glide_ost":{
 		"sounds": [
-			{
-				"name": "custom/glide/glide_1"
-			},
-			{
-				"name": "custom/glide/glide_2"
-			}
+				"custom/glide/glide_1"
+
+		]
+    },
+
+	"sound.custom.glide_ost2":{
+		"sounds": [
+				"custom/glide/glide_2"
 
 		]
     },
 	
+	
+	"sound.custom.TA_start":{
+		"sounds": [
+				"custom/TA_start"
+
+		]
+    },
+
+		
+	"sound.custom.TA_ost":{
+		"sounds": [
+				"custom/TA_ost"
+
+		]
+    },
+
 	"sound.custom.jump_boost1":{
 		"sounds": [
 			{
@@ -154,11 +172,19 @@
 
 		]
     },
-		"sound.custom.speedbri":{
+		"sound.custom.movement_swim":{
 		"sounds": [
-           "custom/sb"
+           "custom/swim"
 
 		]
+
+	},
+	"sound.custom.movement_boat":{
+	"sounds": [
+	   "custom/boat"
+
+	]
+
     },
 		"sound.custom.glide_best_time":{
 		"sounds": [
@@ -335,7 +361,7 @@
 
 	"sound.custom.sb":{
 		"sounds": [
-           "custom/speedbridgers" 
+           "custom/sb" 
 		]
     },
 	"sound.custom.win":{

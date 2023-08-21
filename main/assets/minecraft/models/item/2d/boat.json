@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "layer0": "item/2d/boat"
+    },
+    "parent": "item/generated"
+}

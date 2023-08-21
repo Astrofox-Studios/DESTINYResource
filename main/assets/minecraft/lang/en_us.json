@@ -175,7 +175,7 @@
   "menu.options": "Options...",
   "menu.quit": "Quit Game",
   "menu.returnToMenu": "Save and Quit to Title",
-  "menu.disconnect": "Leave From The Server?",
+  "menu.disconnect": "§c§lRage Quit?",
   "menu.returnToGame": "Back to Game",
   "menu.generatingLevel": "Generating world",
   "menu.loadingLevel": "Loading world",
