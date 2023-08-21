@@ -137,7 +137,7 @@
     },
 	
 	
-	"sound.custom.TA_start":{
+	"sound.custom.ta_start":{
 		"sounds": [
 				"custom/TA_start"
 
@@ -145,7 +145,7 @@
     },
 
 		
-	"sound.custom.TA_ost":{
+	"sound.custom.ta_ost":{
 		"sounds": [
 				"custom/TA_ost"
 
