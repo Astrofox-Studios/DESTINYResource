@@ -351,6 +351,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/bossbarmovement1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/pinkpanthers.png",
             "ascent": 7,
             "height": 16,
