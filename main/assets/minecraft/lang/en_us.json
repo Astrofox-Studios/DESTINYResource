@@ -2318,7 +2318,7 @@
   "instrument.minecraft.call_goat_horn": "Call",
   "instrument.minecraft.yearn_goat_horn": "Yearn",
   "instrument.minecraft.dream_goat_horn": "Dream",
-  "container.inventory": "Inventory",
+  "container.inventory": "",
   "container.hopper": "Item Hopper",
   "container.crafting": "Crafting",
   "container.dispenser": "Dispenser",
