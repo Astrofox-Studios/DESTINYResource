@@ -352,7 +352,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/bossbarmovement1.png",
-            "ascent": 7,
+            "ascent": 8,
             "height": 16,
             "chars": [
                 "" 

@@ -1,6 +1,6 @@
 {
     "textures": {
-        "layer0": "item/2d/blocks"
+        "layer0": "item/2d/play"
     },
     "parent": "item/generated"
 }
