@@ -1,6 +1,22 @@
 {
-    "textures": {
-        "layer0": "item/2d/play"
-    },
-    "parent": "item/generated"
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "item/2d/play",
+		"particle": "item/2d/play"
+	},
+	"elements": [
+		{
+			"from": [-5, 0, 0],
+			"to": [21, 18, 0],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"east": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 0, 16], "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 0], "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 0], "texture": "#missing"}
+			}
+		}
+	],
+	"display": {}
 }
