@@ -38,7 +38,7 @@
  {"predicate": {"custom_model_data":506}, "model": "item/2d/bluebadgers"},
  {"predicate": {"custom_model_data":507}, "model": "item/2d/purplepolarbears"},
  {"predicate": {"custom_model_data":508}, "model": "item/2d/pinkpanthers"},
- {"predicate": {"custom_model_data":500}, "model": "item/2d/spectator"},
+ {"predicate": {"custom_model_data":509}, "model": "item/2d/spectator"},
  {"predicate": {"custom_model_data":40001}, "model": "item/pots/shard_healing"},
  {"predicate": {"custom_model_data":40002}, "model": "item/pots/shard_speed"},
  {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
