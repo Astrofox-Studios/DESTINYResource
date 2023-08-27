@@ -252,6 +252,87 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/redracoons.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE713"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/orangeotters.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE714"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/firefoxes.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE715"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/spec.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE716"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/greengoats.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE717"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/admin.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE718"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/tealtigers.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE719"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/bluebadgers.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE720"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/purplepeacocks.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE723"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/sg.png",
             "ascent": 7,
             "height": 13,
