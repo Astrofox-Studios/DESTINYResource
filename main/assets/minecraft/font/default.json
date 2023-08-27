@@ -281,7 +281,7 @@
             "type": "bitmap",
             "file": "minecraft:custom/spec.png",
             "ascent": -10,
-            "height": 16,
+            "height": 10,
             "chars": [
                 "\uE216"
             ]
@@ -299,7 +299,7 @@
             "type": "bitmap",
             "file": "minecraft:custom/admin.png",
             "ascent": -10,
-            "height": 16,
+            "height": 10,
             "chars": [
                 "\uE218"
             ]
