@@ -324,6 +324,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/pinkpanthers.png",
+            "ascent": 5,
+            "height": 16,
+            "chars": [
+                "\uE222"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/purplepeacocks.png",
             "ascent": 5,
             "height": 16,
