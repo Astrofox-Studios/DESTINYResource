@@ -27,6 +27,33 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/b_credit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/y_credit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/g_credit.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/redracoons.png",
             "ascent": 8,
             "height": 8,
