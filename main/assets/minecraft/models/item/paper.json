@@ -13,7 +13,7 @@
  {"predicate": {"custom_model_data":6}, "model": "item/sniper"},
  {"predicate": {"custom_model_data":7}, "model": "item/shotgun1"},
  {"predicate": {"custom_model_data":8}, "model": "item/plushie1"},
- {"predicate": {"custom_model_data":6969420}, "model": "item/walki"},
+ {"predicate": {"custom_model_data":6969420}, "model": "item/walkie"},
  {"predicate": {"custom_model_data":300}, "model": "item/2d/air"},
  {"predicate": {"custom_model_data":301}, "model": "item/2d/earth"},
  {"predicate": {"custom_model_data":302}, "model": "item/2d/water"},
