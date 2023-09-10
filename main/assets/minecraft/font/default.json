@@ -54,7 +54,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/Astrofox.png",
+            "file": "minecraft:custom/astrofox.png",
             "ascent": 8,
             "height": 8,
             "chars": [
