@@ -13,7 +13,7 @@
             "ascent": 9,
             "height": 9,
             "chars": [
-                "\uE000"
+                "\ue000"
             ]
         },
         {
@@ -22,12 +22,12 @@
             "ascent": 9,
             "height": 9,
             "chars": [
-                "\uE001"
+                "\ue001"
             ]
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/b_credit.png",
+            "file": "minecraft:custom/bcredit.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/y_credit.png",
+            "file": "minecraft:custom/ycredit.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -45,7 +45,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/g_credit.png",
+            "file": "minecraft:custom/gcredit.png",
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -67,7 +67,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE002"
+                "\ue002"
             ]
         },
         {
@@ -76,7 +76,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE003"
+                "\ue003"
             ]
         },
         {
@@ -85,7 +85,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE004"
+                "\ue004"
             ]
         },
         {
@@ -94,7 +94,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE005"
+                "\ue005"
             ]
         },
         {
@@ -103,7 +103,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE006"
+                "\ue006"
             ]
         },
         {
@@ -112,7 +112,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE007"
+                "\ue007"
             ]
         },
         {
@@ -121,7 +121,7 @@
             "ascent": 12,
             "height": 12,
             "chars": [
-                "\uE903"
+                "\ue903"
             ]
         },
         {
@@ -130,7 +130,7 @@
             "ascent": 12,
             "height": 12,
             "chars": [
-                "\uE905"
+                "\ue905"
             ]
         },
         {
@@ -139,7 +139,7 @@
             "ascent": 14,
             "height": 14,
             "chars": [
-                "\uE906"
+                "\ue906"
             ]
         },
         {
@@ -148,7 +148,7 @@
             "ascent": 14,
             "height": 14,
             "chars": [
-                "\uE907"
+                "\ue907"
             ]
         },
         {
@@ -157,7 +157,7 @@
             "ascent": 12,
             "height": 12,
             "chars": [
-                "\uE903"
+                "\ue903"
             ]
         },
         {
@@ -166,7 +166,7 @@
             "ascent": 12,
             "height": 12,
             "chars": [
-                "\uE904"
+                "\ue904"
             ]
         },
         {
@@ -175,7 +175,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE008"
+                "\ue008"
             ]
         },
         {
@@ -184,7 +184,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE009"
+                "\ue009"
             ]
         },
         {
@@ -193,7 +193,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE012"
+                "\ue012"
             ]
         },
         {
@@ -202,7 +202,7 @@
             "ascent": 8,
             "height": 8,
             "chars": [
-                "\uE011"
+                "\ue011"
             ]
         },
         {
@@ -211,7 +211,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE013"
+                "\ue013"
             ]
         },
         {
@@ -220,7 +220,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE014"
+                "\ue014"
             ]
         },
         {
@@ -229,7 +229,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE015"
+                "\ue015"
             ]
         },
         {
@@ -238,7 +238,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE016"
+                "\ue016"
             ]
         },
         {
@@ -247,7 +247,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE017"
+                "\ue017"
             ]
         },
         {
@@ -256,7 +256,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE018"
+                "\ue018"
             ]
         },
         {
@@ -265,7 +265,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE019"
+                "\ue019"
             ]
         },
         {
@@ -274,7 +274,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE020"
+                "\ue020"
             ]
         },
         {
@@ -283,7 +283,7 @@
             "ascent": 7,
             "height": 16,
             "chars": [
-                "\uE023"
+                "\ue023"
             ]
         },
         {
@@ -292,7 +292,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE213"
+                "\ue213"
             ]
         },
         {
@@ -301,7 +301,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE214"
+                "\ue214"
             ]
         },
         {
@@ -310,7 +310,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE215"
+                "\ue215"
             ]
         },
         {
@@ -319,7 +319,7 @@
             "ascent": -10,
             "height": 10,
             "chars": [
-                "\uE216"
+                "\ue216"
             ]
         },
         {
@@ -328,7 +328,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE217"
+                "\ue217"
             ]
         },
         {
@@ -337,7 +337,7 @@
             "ascent": -10,
             "height": 10,
             "chars": [
-                "\uE218"
+                "\ue218"
             ]
         },
         {
@@ -346,7 +346,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE219"
+                "\ue219"
             ]
         },
         {
@@ -355,7 +355,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE220"
+                "\ue220"
             ]
         },
         {
@@ -364,7 +364,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE222"
+                "\ue222"
             ]
         },
         {
@@ -373,7 +373,7 @@
             "ascent": -10,
             "height": 16,
             "chars": [
-                "\uE223"
+                "\ue223"
             ]
         },
         {
@@ -382,7 +382,7 @@
             "ascent": 7,
             "height": 13,
             "chars": [
-                "\uE021"
+                "\ue021"
             ]
         },
         {
@@ -517,7 +517,7 @@
             "ascent": 7,
             "height": 24,
             "chars": [
-                "\uE022" 
+                "\ue022" 
             ]
         }
     ]

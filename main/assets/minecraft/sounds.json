@@ -186,6 +186,13 @@
 	]
 
     },
+	"sound.custom.squeeze":{
+		"sounds": [
+		   "custom/squeeze"
+	
+		]
+	
+		},
 		"sound.custom.glide_best_time":{
 		"sounds": [
            "custom/best_time"
