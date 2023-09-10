@@ -54,6 +54,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/Astrofox.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/redracoons.png",
             "ascent": 8,
             "height": 8,
