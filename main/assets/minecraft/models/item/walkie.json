@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "walki",
-		"particle": "walki"
+		"0": "item/walki",
+		"particle": "item/walki"
 	},
 	"elements": [
 		{
