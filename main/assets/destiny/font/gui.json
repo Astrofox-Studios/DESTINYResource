@@ -1,0 +1,13 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "destiny:fonts/movement_select.png",
+            "chars": [
+                ""
+            ],
+            "ascent": 28,
+            "height": 256
+        }
+    ]
+}
