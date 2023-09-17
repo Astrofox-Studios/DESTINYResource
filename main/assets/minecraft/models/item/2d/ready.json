@@ -2,7 +2,7 @@
   "parent": "item/generated",
 	"display": {
 		"gui": {
-			"scale": [3, 1.12, 1]
+			"scale": [3.12, 1.12, 1]
 		}
 	},
   "textures": {
