@@ -519,6 +519,15 @@
             "chars": [
                 "\ue022" 
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/kit_select.png", 
+            "ascent": 25,
+            "height": 256,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
