@@ -523,7 +523,7 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/kit_select.png", 
-            "ascent": 25,
+            "ascent": 27,
             "height": 256,
             "chars": [
                 ""

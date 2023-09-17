@@ -3,7 +3,7 @@
         {
             "type": "bitmap",
             "file": "destiny:font/kit_select.png", 
-            "ascent": 25,
+            "ascent": 27,
             "height": 256,
             "chars": [
                 ""
