@@ -12,11 +12,6 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
 
-      - name: PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4.0.0
-            
-
-
       - uses: actions/checkout@v2
       - uses: vimtor/action-zip@v1
         with:
