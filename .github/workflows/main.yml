@@ -12,11 +12,9 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
 
-      - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4
-        with:
-          packsquash_version: latest
-          options: |
+      - name: PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4.0.0
+            
 
 
       - uses: actions/checkout@v2
