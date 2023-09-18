@@ -528,6 +528,15 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/walkie_talkie.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
