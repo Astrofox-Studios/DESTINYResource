@@ -1,7 +1,5 @@
 name: Optimize resource pack
 on: [push]
-permissions:
-  contents: write
 jobs:
   packsquash:
     name: Optimize resource pack
@@ -11,22 +9,14 @@ jobs:
         uses: actions/checkout@v3
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
-
-      - uses: actions/checkout@v2
-      - uses: vimtor/action-zip@v1
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
         with:
-          files: main/
-          recursive: true
-          dest: output/main.zip
-
-            
-
+          packsquash_version: latest
+          options: |
+            output_file_path = '/output/main.zip'
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: v${{ github.run_number }}
-          files: |
-            output/main.zip
-
+          files: /output/main.zip
