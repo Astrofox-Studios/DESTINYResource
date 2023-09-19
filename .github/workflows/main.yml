@@ -14,6 +14,7 @@ jobs:
         with:
           packsquash_version: latest
           options: |
+            pack_directory = '.'
             output_file_path = '/output/main.zip'
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
