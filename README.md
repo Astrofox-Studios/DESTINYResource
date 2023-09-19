@@ -10,7 +10,7 @@ The server is currently in a Closed Beta! If you would like to join the tester t
 
 ### Credits
 
-Developers - Skye, Rusty, Frog, Zeph, Matrix
+Developers - Skye, Frog, Zeph, Matrix
 
 Game Designers - Cloudy, Vanilla
 
