@@ -537,6 +537,15 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_kit_select.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
