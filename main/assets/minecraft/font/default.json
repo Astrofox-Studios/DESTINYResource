@@ -522,6 +522,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/minecraft.png",
+            "ascent": 8,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/move_select.png", 
             "ascent": 27,
             "height": 256,
