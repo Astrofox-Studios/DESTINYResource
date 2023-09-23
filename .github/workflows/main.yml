@@ -12,14 +12,19 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
 
+      - name: Run PackSquash
+        uses: ComunidadAylas/PackSquash-action@v4
+        with:
+          packsquash_version: latest # Uses the latest PackSquash release supported by the action
+          options: |
+            pack_directory = 'main'
+
       - uses: actions/checkout@v2
       - uses: vimtor/action-zip@v1
         with:
           files: main/
           recursive: true
           dest: output/main.zip
-
-            
 
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
