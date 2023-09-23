@@ -523,8 +523,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/minecraft2.png",
-            "ascent": 85,
-            "height": 88,
+            "ascent": 40,
+            "height": 100,
             "chars": [
                 "" 
             ]
@@ -532,8 +532,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/minecraft.png",
-            "ascent": 85,
-            "height": 88,
+            "ascent": 40,
+            "height": 100,
             "chars": [
                 "" 
             ]
