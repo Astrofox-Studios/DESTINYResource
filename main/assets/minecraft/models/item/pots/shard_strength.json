@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/potions/shard_regen"
+    "layer0": "minecraft:item/potions/shard_strength"
   }
 }

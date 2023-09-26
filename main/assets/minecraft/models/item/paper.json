@@ -48,6 +48,7 @@
  {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
  {"predicate": {"custom_model_data":40004}, "model": "item/pots/shard_levitation"},
  {"predicate": {"custom_model_data":40005}, "model": "item/pots/shard_jumpboost"},
+ {"predicate": {"custom_model_data":40006}, "model": "item/pots/shard_strength"},
  {"predicate": {"custom_model_data":40007}, "model": "item/pots/shard_invis"}
  ]
 }
