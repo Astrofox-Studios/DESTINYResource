@@ -166,12 +166,33 @@
 
 		]
     },
+
+	"sound.custom.click":{
+		"sounds": [
+			{
+				"name": "custom/click1"
+			},
+			{
+				"name": "custom/click2"
+			},
+			{
+				"name": "custom/click3"
+			}
+
+		]
+	},
 	"sound.custom.domination":{
 		"sounds": [
            "custom/domination"
 
 		]
     },
+	"sound.custom.exit":{
+		"sounds": [
+		"custom/exit"
+
+		]
+	},
 		"sound.custom.movement_swim":{
 		"sounds": [
            "custom/swim"
