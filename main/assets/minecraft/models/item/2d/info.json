@@ -1,6 +1,6 @@
 {
     "textures": {
-        "layer0": "custom/info"
+        "layer0": "item/2d/info"
     },
     "parent": "item/generated"
 }
