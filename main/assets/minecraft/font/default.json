@@ -522,6 +522,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/ycredit.png",
+            "ascent": 8,
+            "height": 16,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/minecraft2.png",
             "ascent": 40,
             "height": 60,
