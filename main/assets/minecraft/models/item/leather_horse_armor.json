@@ -18,6 +18,7 @@
  {"predicate": {"custom_model_data":111}, "model": "item/sign1"},
  {"predicate": {"custom_model_data":112}, "model": "item/basic_armchair"},
  {"predicate": {"custom_model_data":113}, "model": "item/advanced_armchair"},
- {"predicate": {"custom_model_data":114}, "model": "item/computer_keyboard"}
+ {"predicate": {"custom_model_data":114}, "model": "item/computer_keyboard"},
+ {"predicate": {"custom_model_data":115}, "model": "item/turret"}
  ]
 }
