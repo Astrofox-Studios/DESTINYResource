@@ -53,6 +53,7 @@
  {"predicate": {"custom_model_data":520}, "model": "item/2d/vh/vh_red"},
  {"predicate": {"custom_model_data":521}, "model": "item/2d/vh/vh_pick"},
  {"predicate": {"custom_model_data":522}, "model": "item/2d/vh/vh_lost"},
+ {"predicate": {"custom_model_data":523}, "model": "item/2d/lock"},
  {"predicate": {"custom_model_data":40001}, "model": "item/pots/shard_healing"},
  {"predicate": {"custom_model_data":40002}, "model": "item/pots/shard_speed"},
  {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
