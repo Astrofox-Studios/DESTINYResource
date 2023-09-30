@@ -573,6 +573,33 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/sts.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_wall.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
