@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "layer0": "item/2d/vh/vh_turret"
+    },
+    "parent": "item/generated"
+}
