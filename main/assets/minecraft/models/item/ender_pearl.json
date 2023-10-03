@@ -1,0 +1,15 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/ender_pearl"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":524}, "model": "item/2d/vh/archer"},
+    {"predicate": {"custom_model_data":525}, "model": "item/2d/vh/defend"},
+    {"predicate": {"custom_model_data":526}, "model": "item/2d/vh/potions"},
+    {"predicate": {"custom_model_data":527}, "model": "item/2d/vh/spoon"},
+    {"predicate": {"custom_model_data":528}, "model": "item/2d/vh/swords"},
+    {"predicate": {"custom_model_data":529}, "model": "item/2d/vh/tank"}
+    ]
+   }
