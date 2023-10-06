@@ -280,6 +280,18 @@
 
 		]
     },
+	"sound.custom.warn1":{
+		"sounds": [
+           "custom/warn1"
+
+		]
+    },
+	"sound.custom.warn2":{
+		"sounds": [
+           "custom/warn2"
+
+		]
+    },
 	"sound.custom.sts":{
 		"sounds": [
            "custom/sts"
