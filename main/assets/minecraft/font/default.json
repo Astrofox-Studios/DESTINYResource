@@ -618,6 +618,15 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/vh_cam.png", 
+            "ascent": 8,
+            "height": 8,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
