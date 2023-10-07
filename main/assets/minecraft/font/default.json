@@ -645,7 +645,7 @@
             "chars": [
                 ""
             ]
-        }
+        },
         {
             "type": "bitmap",
             "file": "minecraft:custom/kill_icon.png",
