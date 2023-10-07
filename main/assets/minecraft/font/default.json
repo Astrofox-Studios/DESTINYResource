@@ -639,9 +639,9 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/wool.png",
+            "file": "minecraft:custom/wool_icon.png",
             "ascent": 16,
-            "height": 12,
+            "height": 30,
             "chars": [
                 ""
             ]
