@@ -631,8 +631,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/bossbarvoid1.png", 
-            "ascent": 8,
-            "height": 32,
+            "ascent": 10,
+            "height": 40,
             "chars": [
                 ""
             ]
