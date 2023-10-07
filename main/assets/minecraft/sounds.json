@@ -181,6 +181,21 @@
 
 		]
 	},
+
+	"sound.custom.shard":{
+		"sounds": [
+			{
+				"name": "custom/shard1"
+			},
+			{
+				"name": "custom/shard2"
+			},
+			{
+				"name": "custom/shard3"
+			}
+
+		]
+	},
 	"sound.custom.domination":{
 		"sounds": [
            "custom/domination"
