@@ -641,7 +641,7 @@
             "type": "bitmap",
             "file": "minecraft:custom/wool.png",
             "ascent": 16,
-            "height": 16,
+            "height": 12,
             "chars": [
                 ""
             ]
