@@ -640,10 +640,19 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/wool_icon.png",
-            "ascent": 27,
+            "ascent": 28,
             "height": 30,
             "chars": [
                 ""
+            ]
+        }
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/kill_icon.png",
+            "ascent": 28,
+            "height": 30,
+            "chars": [
+                ""
             ]
         }
     ]
