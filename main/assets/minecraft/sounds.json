@@ -285,13 +285,13 @@
     },
 	"sound.custom.lobby":{
 		"sounds": [
-           "custom/lobby"
+           "custom/lobby/lobby"
 
 		]
     },
 	"sound.custom.lobby2":{
 		"sounds": [
-           "custom/lobby2"
+           "custom/lobby/lobby2"
 
 		]
     },
