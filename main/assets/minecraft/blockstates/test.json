@@ -10,11 +10,13 @@
 	  },
 	  "facing=east,open=false": {
 		"model": "minecraft:block/cosmic_crate",
-		"x": 90
+		"x": 90,
+		"y": 90
 	  },
 	  "facing=east,open=true": {
 		"model": "minecraft:block/cosmic_crate_open",
-		"x": 90
+		"x": 90,
+		"y": 90
 	  },
 	  "facing=north,open=false": {
 		"model": "minecraft:block/cosmic_crate",
@@ -26,11 +28,13 @@
 	  },
 	  "facing=south,open=false": {
 		"model": "minecraft:block/cosmic_crate",
-		"x": 90
+		"x": 90,
+		"y": 180
 	  },
 	  "facing=south,open=true": {
 		"model": "minecraft:block/cosmic_crate_open",
-		"x": 90
+		"x": 90,
+		"y": 180
 	  },
 	  "facing=up,open=false": {
 		"model": "minecraft:block/cosmic_crate"
@@ -40,11 +44,13 @@
 	  },
 	  "facing=west,open=false": {
 		"model": "minecraft:block/cosmic_crate",
-		"x": 90
+		"x": 90,
+		"y": 270
 	  },
 	  "facing=west,open=true": {
 		"model": "minecraft:block/cosmic_crate_open",
-		"x": 90
+		"x": 90,
+		"y": 270
 	  }
 	}
   }
