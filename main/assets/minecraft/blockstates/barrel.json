@@ -1,12 +1,56 @@
 {
 	"variants": {
-		"facing=down,open=false": { "model": "block/barrel/cosmic_crate", "x": 180 },
-		"facing=up,open=false": { "model": "block/barrel/cosmic_crate" },
-		"facing=north,open=false": { "model": "block/barrel/cosmic_crate", "x": 90 },
-		"facing=south,open=false": { "model": "block/barrel/cosmic_crate", "x": 90, "y": 180 },
-		"facing=west,open=false": { "model": "block/barrel/cosmic_crate", "x": 90, "y": 270 },
-		"facing=east,open=false": { "model": "block/barrel/cosmic_crate", "x": 90, "y": 90 }
+	  "facing=down,open=false": {
+		"model": "minecraft:block/cosmic_crate",
+		"x": 180
+	  },
+	  "facing=down,open=true": {
+		"model": "minecraft:block/cosmic_crate_open",
+		"x": 180
+	  },
+	  "facing=east,open=false": {
+		"model": "minecraft:block/cosmic_crate",
+		"x": 90,
+		"y": 90
+	  },
+	  "facing=east,open=true": {
+		"model": "minecraft:block/cosmic_crate_open",
+		"x": 90,
+		"y": 90
+	  },
+	  "facing=north,open=false": {
+		"model": "minecraft:block/cosmic_crate",
+		"x": 90
+	  },
+	  "facing=north,open=true": {
+		"model": "minecraft:block/cosmic_crate_open",
+		"x": 90
+	  },
+	  "facing=south,open=false": {
+		"model": "minecraft:block/cosmic_crate",
+		"x": 90,
+		"y": 180
+	  },
+	  "facing=south,open=true": {
+		"model": "minecraft:block/cosmic_crate_open",
+		"x": 90,
+		"y": 180
+	  },
+	  "facing=up,open=false": {
+		"model": "minecraft:block/cosmic_crate"
+	  },
+	  "facing=up,open=true": {
+		"model": "minecraft:block/cosmic_crate_open"
+	  },
+	  "facing=west,open=false": {
+		"model": "minecraft:block/cosmic_crate",
+		"x": 90,
+		"y": 270
+	  },
+	  "facing=west,open=true": {
+		"model": "minecraft:block/cosmic_crate_open",
+		"x": 90,
+		"y": 270
+	  }
 	}
-}
-
-	
+  }
