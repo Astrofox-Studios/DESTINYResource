@@ -1,0 +1,46 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/raw_iron"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":8}, "model": "astro:cosmetics/astro_pass/1_20/plushie1"},
+    {"predicate": {"custom_model_data":1000}, "model": "astro:cosmetics/astro_pass/1_20/fox_head"},
+    {"predicate": {"custom_model_data":1001}, "model": "astro:cosmetics/astro_pass/1_20/fox_head_white"},
+    {"predicate": {"custom_model_data":1002}, "model": "astro:cosmetics/astro_pass/1_20/fox_arm"},
+    {"predicate": {"custom_model_data":1003}, "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white"},
+    {"predicate": {"custom_model_data":1004}, "model": "astro:cosmetics/astro_pass/1_20/fox_pet"},
+    {"predicate": {"custom_model_data":1005}, "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"},
+    {"predicate": {"custom_model_data":1006}, "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"},
+    {"predicate": {"custom_model_data":2000}, "model": "astro:gui/arrow_left"},
+    {"predicate": {"custom_model_data":2001}, "model": "astro:gui/arrow_right"},
+    {"predicate": {"custom_model_data":2002}, "model": "astro:gui/castle"},
+    {"predicate": {"custom_model_data":2003}, "model": "astro:gui/corrupted"},
+    {"predicate": {"custom_model_data":2004}, "model": "astro:gui/domination"},
+    {"predicate": {"custom_model_data":2005}, "model": "astro:gui/movement"},
+    {"predicate": {"custom_model_data":2006}, "model": "astro:gui/movement_daily"},
+    {"predicate": {"custom_model_data":2007}, "model": "astro:gui/splatshot"},
+    {"predicate": {"custom_model_data":2008}, "model": "astro:gui/green_person"},
+    {"predicate": {"custom_model_data":2009}, "model": "astro:gui/orange_person"},
+    {"predicate": {"custom_model_data":2010}, "model": "astro:gui/red_person"},
+    {"predicate": {"custom_model_data":2011}, "model": "astro:gui/lobby/astropass_free"},
+    {"predicate": {"custom_model_data":2012}, "model": "astro:gui/lobby/astropass_unlocked"},
+    {"predicate": {"custom_model_data":2013}, "model": "astro:gui/lobby/friends"},
+    {"predicate": {"custom_model_data":2014}, "model": "astro:gui/lobby/shop"},
+    {"predicate": {"custom_model_data":2015}, "model": "astro:gui/lobby/locker"},
+    {"predicate": {"custom_model_data":2016}, "model": "astro:gui/lobby/settings"},
+    {"predicate": {"custom_model_data":2017}, "model": "astro:gui/lobby/astropass_free_ani"},
+    {"predicate": {"custom_model_data":2018}, "model": "astro:gui/lobby/astropass_unlocked_ani"},
+    {"predicate": {"custom_model_data":2019}, "model": "astro:gui/lobby/friends_ani"},
+    {"predicate": {"custom_model_data":2020}, "model": "astro:gui/lobby/shop_ani"},
+    {"predicate": {"custom_model_data":2021}, "model": "astro:gui/lobby/locker_ani"},
+    {"predicate": {"custom_model_data":2022}, "model": "astro:gui/lobby/quests"},
+    {"predicate": {"custom_model_data":2023}, "model": "astro:gui/lobby/quests_ani"},
+    {"predicate": {"custom_model_data":2024}, "model": "astro:gui/lobby/quests_free"},
+    {"predicate": {"custom_model_data":2025}, "model": "astro:gui/lobby/quests_free_ani"},
+    {"predicate": {"custom_model_data":2026}, "model": "astro:gui/lobby/plus"},
+    {"predicate": {"custom_model_data":2027}, "model": "astro:gui/lobby/glider"},
+    {"predicate": {"custom_model_data":2028}, "model": "astro:gui/lobby/tool"}
+    ]
+}

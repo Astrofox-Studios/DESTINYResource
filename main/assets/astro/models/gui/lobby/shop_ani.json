@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+	"display": {
+		"gui": {
+			"scale": [1, 1, 1]
+		}
+	},
+  "textures": {
+    "layer0": "item/2d/gui/shop_ani"
+  }
+}

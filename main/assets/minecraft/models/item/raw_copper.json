@@ -1,0 +1,19 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+    "layer0": "item/raw_iron"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data":1}, "model": "astro:splat/guns/1_makeshift_pistol"},
+    {"predicate": {"custom_model_data":2}, "model": "astro:splat/guns/1_makeshift_smg"},
+    {"predicate": {"custom_model_data":3}, "model": "astro:splat/guns/1_makeshift_ak"},
+    {"predicate": {"custom_model_data":4}, "model": "astro:splat/guns/2_pistol"},
+    {"predicate": {"custom_model_data":5}, "model": "astro:splat/guns/2_smg"},
+    {"predicate": {"custom_model_data":6}, "model": "astro:splat/guns/2_ak"},
+    {"predicate": {"custom_model_data":7}, "model": "astro:splat/guns/2_ar"},
+    {"predicate": {"custom_model_data":8}, "model": "astro:splat/guns/2_famas"},
+    {"predicate": {"custom_model_data":9}, "model": "astro:splat/guns/2_sniper"}
+
+    ]
+}
