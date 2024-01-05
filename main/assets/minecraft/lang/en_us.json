@@ -604,7 +604,7 @@
   "disconnect.spam": "Kicked for spamming",
   "disconnect.exceeded_packet_rate": "Kicked for exceeding packet rate limit",
   "soundCategory.master": "Master Volume",
-  "soundCategory.music": "§c§lTURN THIS OFF",
+  "soundCategory.music": "§c§lUse Other Music Slider!",
   "soundCategory.record": "Jukebox/Note Blocks",
   "soundCategory.weather": "Weather",
   "soundCategory.hostile": "Hostile Creatures",

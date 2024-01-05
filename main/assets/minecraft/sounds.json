@@ -1,4 +1,94 @@
 {
+    "music.creative": {
+      "replace": true
+    },
+    "music.dragon": {
+      "replace": true
+    },
+    "music.end": {
+      "replace": true
+    },
+    "music.game": {
+      "replace": true
+    },
+    "music.menu": {
+      "replace": true
+    },
+    "music.nether.basalt_deltas": {
+      "replace": true
+    },
+    "music.nether.crimson_forest": {
+      "replace": true
+    },
+    "music.nether.nether_wastes": {
+      "replace": true
+    },
+    "music.nether.soul_sand_valley": {
+      "replace": true
+    },
+    "music.nether.warped_forest": {
+      "replace": true
+    },
+    "music.overworld.badlands": {
+      "replace": true
+    },
+    "music.overworld.bamboo_jungle": {
+      "replace": true
+    },
+    "music.overworld.cherry_grove": {
+      "replace": true
+    },
+    "music.overworld.deep_dark": {
+      "replace": true
+    },
+    "music.overworld.desert": {
+      "replace": true
+    },
+    "music.overworld.dripstone_caves": {
+      "replace": true
+    },
+    "music.overworld.flower_forest": {
+      "replace": true
+    },
+    "music.overworld.forest": {
+      "replace": true
+    },
+    "music.overworld.frozen_peaks": {
+      "replace": true
+    },
+    "music.overworld.grove": {
+      "replace": true
+    },
+    "music.overworld.jagged_peaks": {
+      "replace": true
+    },
+    "music.overworld.jungle": {
+      "replace": true
+    },
+    "music.overworld.lush_caves": {
+      "replace": true
+    },
+    "music.overworld.meadow": {
+      "replace": true
+    },
+    "music.overworld.old_growth_taiga": {
+      "replace": true
+    },
+    "music.overworld.snowy_slopes": {
+      "replace": true
+    },
+    "music.overworld.sparse_jungle": {
+      "replace": true
+    },
+    "music.overworld.stony_peaks": {
+      "replace": true
+    },
+    "music.overworld.swamp": {
+      "replace": true
+    },
+    "music.under_water": {
+      "replace": true
+    },
 	"sound.custom.coin":{
 		"sounds": [
            "custom/coin"
