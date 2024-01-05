@@ -89,9 +89,9 @@
     "music.under_water": {
       "replace": true
     },
-	"sound.custom.coin":{
+	"sound.custom.kill":{
 		"sounds": [
-           "custom/coin"
+           "custom/kill"
 		]
     },
 	"sound.custom.birds":{
