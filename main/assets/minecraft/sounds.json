@@ -94,6 +94,16 @@
            "custom/kill"
 		]
     },
+	"block.barrel.open":{
+		"sounds": [
+           "block/barrel_open"
+		]
+    },
+	"block.barrel.close":{
+		"sounds": [
+           "block/barrel_close"
+		]
+    },
 	"sound.custom.birds":{
 		"sounds": [
             {
