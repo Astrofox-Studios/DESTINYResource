@@ -93,12 +93,21 @@
 		"sounds": [
            "custom/kill"
 		]
-    },
-	"block.barrel.open":{
-		"sounds": [
-           "block/barrel_open"
-		]
-    },
+	},
+	"block.barrel.open": {
+	   "sounds": [
+		  {
+			 "name": "block/barrel_open1",
+			 "volume": 1,
+			 "pitch": 1
+		  },
+		  {
+			 "name": "block/barrel_open2",
+			 "volume": 1,
+			 "pitch": 1
+		  }
+	   ]
+	},
 	"block.barrel.close":{
 		"sounds": [
            "block/barrel_close"
