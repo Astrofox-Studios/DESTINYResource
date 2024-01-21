@@ -540,6 +540,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/bossbarcosmic1.png", 
+            "ascent": 14,
+            "height": 40,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/wool_icon.png",
             "ascent": 28,
             "height": 30,
