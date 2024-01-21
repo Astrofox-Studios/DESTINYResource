@@ -567,6 +567,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/player_icon.png",
+            "ascent": 28,
+            "height": 30,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/click_icons/click_action_left.png", 
             "ascent": 9,
             "height": 9,
