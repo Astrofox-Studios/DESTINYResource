@@ -613,8 +613,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/cosmic_fuel_green.png",
-            "ascent": -8,
-            "height": 18,
+            "ascent": -6,
+            "height": 16,
             "chars": [
                 ""
             ]
@@ -622,8 +622,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/cosmic_fuel_yellow.png",
-            "ascent": -8,
-            "height": 18,
+            "ascent": -6,
+            "height": 16,
             "chars": [
                 ""
             ]
@@ -631,8 +631,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/cosmic_fuel_orange.png",
-            "ascent": -8,
-            "height": 18,
+            "ascent": -6,
+            "height": 16,
             "chars": [
                 ""
             ]
@@ -640,8 +640,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/cosmic_fuel_red.png",
-            "ascent": -8,
-            "height": 18,
+            "ascent": -6,
+            "height": 16,
             "chars": [
                 ""
             ]
@@ -649,8 +649,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:custom/cosmic_fuel_gray.png",
-            "ascent": -8,
-            "height": 18,
+            "ascent": -6,
+            "height": 16,
             "chars": [
                 ""
             ]
