@@ -459,6 +459,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/ctf_kit_select.png", 
+            "ascent": 27,
+            "height": 256,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/vh.png", 
             "ascent": 8,
             "height": 8,
