@@ -457,6 +457,11 @@
            "custom/ost"
 		]
     },
+	"sound.custom.selection_sphere":{
+		"sounds": [
+           "custom/selection_sphere"
+		]
+    },
 	"sound.custom.startgame":{
 		"sounds": [
            "custom/startgame"
