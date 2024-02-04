@@ -540,6 +540,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/ststitle.png",
+            "ascent": 32,
+            "height": 64,
+            "chars": [
+                "񐏹"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/icons/alert.png", 
             "ascent": 7.5,
             "height": 8,
