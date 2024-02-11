@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=double": { "model": "block/purple_wool" }
+    }
+}
