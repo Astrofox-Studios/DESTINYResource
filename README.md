@@ -6,7 +6,7 @@ The Pack for Destiny Games! If you use any of the models, textures or sounds in 
 
 ![powered by](https://img.shields.io/badge/Powered_by-Ington-038cfc?style=for-the-badge)
 
-The server is currently in a Closed Beta! If you would like to join the tester team [Click Here](destinygames.org)
+The server is currently in a Closed Beta! If you would like to join the tester team [Click Here](astrofoxstudios.com)
 
 ### Credits
 
