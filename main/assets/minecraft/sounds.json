@@ -148,6 +148,29 @@
 
 		]
     },
+	"sound.custom.waves":{
+		"sounds": [
+            {
+                "name": "custom/water/wave1"
+            },
+            {
+                "name": "custom/water/wave2"
+            },
+            {
+                "name": "custom/water/wave3"
+            },
+            {
+                "name": "custom/water/wave4"
+            },
+            {
+                "name": "custom/water/wave5"
+            },
+            {
+                "name": "custom/water/wave6"
+            }
+            
+		]
+    },
 	"sound.custom.death":{
 		"sounds": [
             {
