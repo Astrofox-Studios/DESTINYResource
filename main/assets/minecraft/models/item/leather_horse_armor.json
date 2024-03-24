@@ -21,6 +21,7 @@
  {"predicate": {"custom_model_data":114}, "model": "item/computer_keyboard"},
  {"predicate": {"custom_model_data":115}, "model": "item/turret"},
  {"predicate": {"custom_model_data":116}, "model": "item/bench3"},
- {"predicate": {"custom_model_data":117}, "model": "item/parasole"}
+ {"predicate": {"custom_model_data":117}, "model": "item/parasole"},
+ {"predicate": {"custom_model_data":118}, "model": "item/computer"}
  ]
 }
