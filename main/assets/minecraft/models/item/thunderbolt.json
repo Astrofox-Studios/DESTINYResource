@@ -2,9 +2,9 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/clubmine/handheld/thunderboltmain",
-		"1": "item/clubmine/handheld/thunderbolt",
-		"particle": "item/clubmine/handheld/thunderbolt"
+		"0": "block/thunderboltmain",
+		"1": "block/thunderbolt",
+		"particle": "block/thunderbolt"
 	},
 	"elements": [
 		{
