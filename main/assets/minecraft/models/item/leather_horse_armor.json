@@ -114,6 +114,60 @@
         },
         {
             "predicate": {
+                "custom_model_data": 19
+            },
+            "model": "modelengine:snake/tail1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 20
+            },
+            "model": "modelengine:snake/bodylayer_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 21
+            },
+            "model": "modelengine:snake/bodypart_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 22
+            },
+            "model": "modelengine:snake/bodypart_0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 23
+            },
+            "model": "modelengine:snake/bodypart_1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 24
+            },
+            "model": "modelengine:snake/bodylayer_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 25
+            },
+            "model": "modelengine:snake/bodypart_3"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 26
+            },
+            "model": "modelengine:snake/bone"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 27
+            },
+            "model": "modelengine:snake/bone2"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "item/crown1"
