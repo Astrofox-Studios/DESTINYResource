@@ -78,6 +78,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "modelengine:mimic/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 14
+            },
+            "model": "modelengine:mimic/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 15
+            },
+            "model": "modelengine:mimic/rightarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 16
+            },
+            "model": "modelengine:mimic/leftarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 17
+            },
+            "model": "modelengine:mimic/rightleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 18
+            },
+            "model": "modelengine:mimic/leftleg"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "item/crown1"
