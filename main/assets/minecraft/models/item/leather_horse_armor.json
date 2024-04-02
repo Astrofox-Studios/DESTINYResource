@@ -116,91 +116,91 @@
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "modelengine:snake/tail1"
+            "model": "modelengine:corrupted_skeleton/body"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "modelengine:snake/bodylayer_1"
+            "model": "modelengine:corrupted_skeleton/head"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "modelengine:snake/bodypart_2"
+            "model": "modelengine:corrupted_skeleton/rightarm"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "modelengine:snake/bodypart_0"
+            "model": "modelengine:corrupted_skeleton/leftarm"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "modelengine:snake/bodypart_1"
+            "model": "modelengine:corrupted_skeleton/rightleg"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "modelengine:snake/bodylayer_2"
+            "model": "modelengine:corrupted_skeleton/leftleg"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "modelengine:snake/bodypart_3"
+            "model": "modelengine:snake/tail1"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "modelengine:snake/bone"
+            "model": "modelengine:snake/bodylayer_1"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "modelengine:snake/bone2"
+            "model": "modelengine:snake/bodypart_2"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "modelengine:corrupted_skeleton/body"
+            "model": "modelengine:snake/bodypart_0"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "modelengine:corrupted_skeleton/head"
+            "model": "modelengine:snake/bodypart_1"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "modelengine:corrupted_skeleton/rightarm"
+            "model": "modelengine:snake/bodylayer_2"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "modelengine:corrupted_skeleton/leftarm"
+            "model": "modelengine:snake/bodypart_3"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "modelengine:corrupted_skeleton/rightleg"
+            "model": "modelengine:snake/bone"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "modelengine:corrupted_skeleton/leftleg"
+            "model": "modelengine:snake/bone2"
         },
         {
             "predicate": {
