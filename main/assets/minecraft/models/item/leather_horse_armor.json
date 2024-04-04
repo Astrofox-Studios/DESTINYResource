@@ -204,6 +204,42 @@
         },
         {
             "predicate": {
+                "custom_model_data": 34
+            },
+            "model": "modelengine:zombie/body"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 35
+            },
+            "model": "modelengine:zombie/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 36
+            },
+            "model": "modelengine:zombie/rightarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 37
+            },
+            "model": "modelengine:zombie/leftarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 38
+            },
+            "model": "modelengine:zombie/rightleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 39
+            },
+            "model": "modelengine:zombie/leftleg"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 100
             },
             "model": "item/crown1"
