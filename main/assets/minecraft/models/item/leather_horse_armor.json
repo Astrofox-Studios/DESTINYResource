@@ -8,79 +8,79 @@
             "predicate": {
                 "custom_model_data": 1
             },
-            "model": "modelengine:creeper/body"
+            "model": "modelengine:stalker/head"
         },
         {
             "predicate": {
                 "custom_model_data": 2
             },
-            "model": "modelengine:creeper/head"
+            "model": "modelengine:stalker/rightleg"
         },
         {
             "predicate": {
                 "custom_model_data": 3
             },
-            "model": "modelengine:creeper/leg0"
+            "model": "modelengine:stalker/rightarm"
         },
         {
             "predicate": {
                 "custom_model_data": 4
             },
-            "model": "modelengine:creeper/leg1"
+            "model": "modelengine:stalker/leftleg"
         },
         {
             "predicate": {
                 "custom_model_data": 5
             },
-            "model": "modelengine:creeper/leg2"
+            "model": "modelengine:stalker/leftarm"
         },
         {
             "predicate": {
                 "custom_model_data": 6
             },
-            "model": "modelengine:creeper/leg3"
+            "model": "modelengine:stalker/body"
         },
         {
             "predicate": {
                 "custom_model_data": 7
             },
-            "model": "modelengine:face/upperleg"
+            "model": "modelengine:creeper/body"
         },
         {
             "predicate": {
                 "custom_model_data": 8
             },
-            "model": "modelengine:face/lowerleg"
+            "model": "modelengine:creeper/head"
         },
         {
             "predicate": {
                 "custom_model_data": 9
             },
-            "model": "modelengine:face/upperleg2"
+            "model": "modelengine:creeper/leg0"
         },
         {
             "predicate": {
                 "custom_model_data": 10
             },
-            "model": "modelengine:face/lowerleg2"
+            "model": "modelengine:creeper/leg1"
         },
         {
             "predicate": {
                 "custom_model_data": 11
             },
-            "model": "modelengine:face/body"
+            "model": "modelengine:creeper/leg2"
         },
         {
             "predicate": {
                 "custom_model_data": 12
             },
-            "model": "modelengine:face/leftarm"
+            "model": "modelengine:creeper/leg3"
         },
         {
             "predicate": {
                 "custom_model_data": 13
             },
-            "model": "modelengine:face/lowerarm"
+            "model": "modelengine:face/head"
         },
         {
             "predicate": {
@@ -92,13 +92,13 @@
             "predicate": {
                 "custom_model_data": 15
             },
-            "model": "modelengine:face/lowerarm2"
+            "model": "modelengine:face/leftarm"
         },
         {
             "predicate": {
                 "custom_model_data": 16
             },
-            "model": "modelengine:face/head"
+            "model": "modelengine:face/body"
         },
         {
             "predicate": {
@@ -116,163 +116,199 @@
             "predicate": {
                 "custom_model_data": 19
             },
-            "model": "modelengine:mimic/head"
+            "model": "modelengine:face/upperleg2"
         },
         {
             "predicate": {
                 "custom_model_data": 20
             },
-            "model": "modelengine:mimic/body"
+            "model": "modelengine:face/lowerleg2"
         },
         {
             "predicate": {
                 "custom_model_data": 21
             },
-            "model": "modelengine:mimic/rightarm"
+            "model": "modelengine:face/lowerarm2"
         },
         {
             "predicate": {
                 "custom_model_data": 22
             },
-            "model": "modelengine:mimic/leftarm"
+            "model": "modelengine:face/lowerleg"
         },
         {
             "predicate": {
                 "custom_model_data": 23
             },
-            "model": "modelengine:mimic/rightleg"
+            "model": "modelengine:face/upperleg"
         },
         {
             "predicate": {
                 "custom_model_data": 24
             },
-            "model": "modelengine:mimic/leftleg"
+            "model": "modelengine:face/lowerarm"
         },
         {
             "predicate": {
                 "custom_model_data": 25
             },
-            "model": "modelengine:skelly/body"
+            "model": "modelengine:mimic/head"
         },
         {
             "predicate": {
                 "custom_model_data": 26
             },
-            "model": "modelengine:skelly/head"
+            "model": "modelengine:mimic/rightleg"
         },
         {
             "predicate": {
                 "custom_model_data": 27
             },
-            "model": "modelengine:skelly/rightarm"
+            "model": "modelengine:mimic/rightarm"
         },
         {
             "predicate": {
                 "custom_model_data": 28
             },
-            "model": "modelengine:skelly/leftarm"
+            "model": "modelengine:mimic/leftleg"
         },
         {
             "predicate": {
                 "custom_model_data": 29
             },
-            "model": "modelengine:skelly/rightleg"
+            "model": "modelengine:mimic/leftarm"
         },
         {
             "predicate": {
                 "custom_model_data": 30
             },
-            "model": "modelengine:skelly/leftleg"
+            "model": "modelengine:mimic/body"
         },
         {
             "predicate": {
                 "custom_model_data": 31
             },
-            "model": "modelengine:snake/tail1"
+            "model": "modelengine:skelly/head"
         },
         {
             "predicate": {
                 "custom_model_data": 32
             },
-            "model": "modelengine:snake/bodylayer_1"
+            "model": "modelengine:skelly/rightleg"
         },
         {
             "predicate": {
                 "custom_model_data": 33
             },
-            "model": "modelengine:snake/bodypart_2"
+            "model": "modelengine:skelly/rightarm"
         },
         {
             "predicate": {
                 "custom_model_data": 34
             },
-            "model": "modelengine:snake/bodypart_0"
+            "model": "modelengine:skelly/leftleg"
         },
         {
             "predicate": {
                 "custom_model_data": 35
             },
-            "model": "modelengine:snake/bodypart_1"
+            "model": "modelengine:skelly/leftarm"
         },
         {
             "predicate": {
                 "custom_model_data": 36
             },
-            "model": "modelengine:snake/bodylayer_2"
+            "model": "modelengine:skelly/body"
         },
         {
             "predicate": {
                 "custom_model_data": 37
             },
-            "model": "modelengine:snake/bodypart_3"
+            "model": "modelengine:snake/head"
         },
         {
             "predicate": {
                 "custom_model_data": 38
             },
-            "model": "modelengine:snake/bone"
+            "model": "modelengine:snake/tail1"
         },
         {
             "predicate": {
                 "custom_model_data": 39
             },
-            "model": "modelengine:snake/bone2"
+            "model": "modelengine:snake/bodypart_2"
         },
         {
             "predicate": {
                 "custom_model_data": 40
             },
-            "model": "modelengine:zombie/body"
+            "model": "modelengine:snake/bone2"
         },
         {
             "predicate": {
                 "custom_model_data": 41
             },
-            "model": "modelengine:zombie/head"
+            "model": "modelengine:snake/bodylayer_1"
         },
         {
             "predicate": {
                 "custom_model_data": 42
             },
-            "model": "modelengine:zombie/rightarm"
+            "model": "modelengine:snake/bodypart_3"
         },
         {
             "predicate": {
                 "custom_model_data": 43
             },
-            "model": "modelengine:zombie/leftarm"
+            "model": "modelengine:snake/bodypart_0"
         },
         {
             "predicate": {
                 "custom_model_data": 44
             },
-            "model": "modelengine:zombie/rightleg"
+            "model": "modelengine:snake/bodypart_1"
         },
         {
             "predicate": {
                 "custom_model_data": 45
             },
+            "model": "modelengine:snake/bodylayer_2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 46
+            },
+            "model": "modelengine:zombie/head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 47
+            },
+            "model": "modelengine:zombie/rightleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 48
+            },
+            "model": "modelengine:zombie/rightarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 49
+            },
             "model": "modelengine:zombie/leftleg"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 50
+            },
+            "model": "modelengine:zombie/leftarm"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 51
+            },
+            "model": "modelengine:zombie/body"
         },
         {
             "predicate": {
