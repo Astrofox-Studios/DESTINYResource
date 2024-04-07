@@ -1,0 +1,6 @@
+{
+    "textures": {
+        "layer0": "item/recovery_compass_00"
+    },
+    "parent": "item/generated"
+}
