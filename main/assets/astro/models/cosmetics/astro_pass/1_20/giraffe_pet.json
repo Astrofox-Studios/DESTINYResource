@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "item/giraffe_pet",
-		"particle": "item/giraffe_pet"
+		"0": "item/plushies/giraffe_pet",
+		"particle": "item/plushies/giraffe_pet"
 	},
 	"elements": [
 		{
