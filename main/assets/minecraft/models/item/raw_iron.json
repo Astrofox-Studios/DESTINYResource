@@ -42,6 +42,7 @@
     {"predicate": {"custom_model_data":2026}, "model": "astro:gui/lobby/plus"},
     {"predicate": {"custom_model_data":2027}, "model": "astro:gui/lobby/glider"},
     {"predicate": {"custom_model_data":2028}, "model": "astro:gui/lobby/tool"},
-    {"predicate": {"custom_model_data":2029}, "model": "astro:gui/credit"}
+    {"predicate": {"custom_model_data":2029}, "model": "astro:gui/credit"},
+    {"predicate": {"custom_model_data":2030}, "model": "astro:gui/selection"}
     ]
 }
