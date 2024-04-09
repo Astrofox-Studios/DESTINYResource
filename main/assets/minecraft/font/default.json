@@ -807,6 +807,15 @@
             "chars": [
                 "" 
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/fade.png", 
+            "ascent": 1080,
+            "height": 2160,
+            "chars": [
+                "" 
+            ]
         }
     ]
 }
