@@ -16,7 +16,6 @@
     {"predicate": {"custom_model_data":1007}, "model": "astro:cosmetics/astro_pass/1_20/flower_cwown"},
     {"predicate": {"custom_model_data":1008}, "model": "astro:cosmetics/astro_pass/1_20/beanie1"},
     {"predicate": {"custom_model_data":1009}, "model": "astro:cosmetics/astro_pass/1_20/beanie2"},
-    {"predicate": {"custom_model_data":1010}, "model": "astro:cosmetics/astro_pass/1_20/ "},
     {"predicate": {"custom_model_data":2000}, "model": "astro:gui/arrow_left"},
     {"predicate": {"custom_model_data":2001}, "model": "astro:gui/arrow_right"},
     {"predicate": {"custom_model_data":2002}, "model": "astro:gui/castle"},
