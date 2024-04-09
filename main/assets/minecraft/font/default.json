@@ -558,6 +558,15 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/selection.png",
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                "񐏺"
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/icons/alert.png", 
             "ascent": 7.5,
             "height": 8,
