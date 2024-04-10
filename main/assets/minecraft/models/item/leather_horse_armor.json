@@ -507,6 +507,30 @@
                 "custom_model_data": 1009
             },
             "model": "astro:cosmetics/astro_pass/1_20/beanie2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1010
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1011
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1012
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1013
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
         }
     ]
 }
