@@ -825,6 +825,15 @@
             "chars": [
                 "" 
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/gui/settings.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
         }
     ]
 }
