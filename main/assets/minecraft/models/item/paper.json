@@ -66,6 +66,7 @@
  {"predicate": {"custom_model_data":40005}, "model": "item/pots/shard_jumpboost"},
  {"predicate": {"custom_model_data":40006}, "model": "item/pots/shard_strength"},
  {"predicate": {"custom_model_data":40007}, "model": "item/pots/shard_invis"},
- {"predicate": {"custom_model_data":6969420}, "model": "item/walkie"}
+ {"predicate": {"custom_model_data":6969420}, "model": "item/walkie"},
+ {"predicate": {"custom_model_data":6969421}, "model": "item/2d/r_button"}
  ]
 }
