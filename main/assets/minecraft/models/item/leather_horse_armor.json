@@ -531,6 +531,18 @@
                 "custom_model_data": 1013
             },
             "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1100
+            },
+            "model": "item/plant"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1101
+            },
+            "model": "item/server"
         }
     ]
 }
