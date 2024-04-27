@@ -536,13 +536,13 @@
             "predicate": {
                 "custom_model_data": 1100
             },
-            "model": "item/plant"
+            "model": "item/decor/plant"
         },
         {
             "predicate": {
                 "custom_model_data": 1101
             },
-            "model": "item/server"
+            "model": "item/decor/server"
         }
     ]
 }
