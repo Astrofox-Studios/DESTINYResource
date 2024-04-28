@@ -253,6 +253,13 @@
 			}
 
 		]
+
+    },
+			"sound.custom.cook":{
+		"sounds": [
+				"custom/cook"
+
+		]
     },
 			"sound.custom.glide_ost":{
 		"sounds": [
