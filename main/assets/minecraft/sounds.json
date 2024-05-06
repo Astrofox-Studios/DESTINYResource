@@ -261,6 +261,12 @@
 
 		]
     },
+				"sound.custom.face":{
+		"sounds": [
+				"custom/face"
+
+		]
+    },
 			"sound.custom.glide_ost":{
 		"sounds": [
 				"custom/glide/glide_1"
