@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "cyan_crabs",
-		"particle": "cyan_crabs"
+		"1": "item/plushies/cyan_crabs",
+		"particle": "item/plushies/cyan_crabs"
 	},
 	"elements": [
 		{

@@ -534,6 +534,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1014
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1015
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/decor/plant"
