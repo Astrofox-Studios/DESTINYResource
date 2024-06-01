@@ -555,6 +555,12 @@
                 "custom_model_data": 1101
             },
             "model": "item/decor/server"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1102
+            },
+            "model": "item/cosmetics/ctf_flag"
         }
     ]
 }
