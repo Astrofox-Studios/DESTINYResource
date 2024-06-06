@@ -398,7 +398,7 @@
             "predicate": {
                 "custom_model_data": 115
             },
-            "model": "item/weppons/turret"
+            "model": "item/weapons/turret"
         },
         {
             "predicate": {
@@ -440,7 +440,7 @@
             "predicate": {
                 "custom_model_data": 122
             },
-            "model": "item/weppons/thunderbolt"
+            "model": "item/weapons/thunderbolt"
         },
         {
             "predicate": {

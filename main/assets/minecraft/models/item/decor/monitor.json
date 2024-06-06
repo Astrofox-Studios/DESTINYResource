@@ -3,8 +3,8 @@
 	"texture_size": [64, 64],
 	"textures": {
 		"2": "block/light_gray_glazed_terracotta",
-		"4": "block/Monitor",
-		"particle": "block/Monitor"
+		"4": "block/monitor",
+		"particle": "block/monitor"
 	},
 	"elements": [
 		{

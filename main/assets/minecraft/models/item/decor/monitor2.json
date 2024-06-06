@@ -4,8 +4,8 @@
 	"textures": {
 		"2": "block/light_gray_glazed_terracotta",
 		"3": "block/monitor2",
-		"4": "block/Monitor",
-		"particle": "block/Monitor"
+		"4": "block/monitor",
+		"particle": "block/monitor"
 	},
 	"elements": [
 		{
