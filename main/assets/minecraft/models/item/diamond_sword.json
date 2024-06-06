@@ -5,9 +5,9 @@
  },
  
  "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/weppons/firesword"},
- {"predicate": {"custom_model_data":2}, "model": "item/weppons/watersword"},
- {"predicate": {"custom_model_data":3}, "model": "item/weppons/earthsword"},
- {"predicate": {"custom_model_data":4}, "model": "item/weppons/airsword"}
+ {"predicate": {"custom_model_data":1}, "model": "item/weapons/firesword"},
+ {"predicate": {"custom_model_data":2}, "model": "item/weapons/watersword"},
+ {"predicate": {"custom_model_data":3}, "model": "item/weapons/earthsword"},
+ {"predicate": {"custom_model_data":4}, "model": "item/weapons/airsword"}
  ]
 }
