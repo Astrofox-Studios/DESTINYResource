@@ -261,6 +261,12 @@
 
 		]
     },
+			"sound.custom.microwave":{
+		"sounds": [
+				"custom/microwave"
+
+		]
+    },
 			"sound.custom.whyblue":{
 		"sounds": [
 				"custom/why_are_you_blue"
