@@ -261,6 +261,12 @@
 
 		]
     },
+			"sound.custom.whyblue":{
+		"sounds": [
+				"custom/why_are_you_blue"
+
+		]
+    },
 				"sound.custom.face":{
 		"sounds": [
 				"custom/face"
