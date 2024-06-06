@@ -1,4 +1,4 @@
-![DestinyGames Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/test/test.png)
+![DestinyGames Logo](https://github.com/Astrofox-Studios/DESTINYResource/blob/main/logo.png)
 
 The Code for Destiny Games! 
 
