@@ -273,6 +273,12 @@
 
 		]
     },
+			"sound.custom.someone_cooked":{
+		"sounds": [
+				"custom/someone_cooked"
+
+		]
+    },
 				"sound.custom.face":{
 		"sounds": [
 				"custom/face"
