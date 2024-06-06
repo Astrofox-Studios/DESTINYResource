@@ -8,7 +8,7 @@ The server is currently in a Closed Beta! If you would like to join the tester t
 
 ### Credits
 
-Developers - Skye, Iris, Frog, Zeph, Matrix, Juney, Slime, Fox
+Developers - Skye, Iris, Frog, Zeph, Matrix, Juney, Slime, Fox, Pe3ep
 
 Game Designers - Cloudy, Vanilla
 
