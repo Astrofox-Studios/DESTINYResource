@@ -260,6 +260,13 @@
 				"custom/cook"
 
 		]
+
+    },
+			"sound.custom.wipeout":{
+		"sounds": [
+				"custom/wipeout"
+
+		]
     },
 			"sound.custom.microwave":{
 		"sounds": [
