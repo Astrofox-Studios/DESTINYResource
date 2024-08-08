@@ -546,6 +546,18 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1016
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1017
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/decor/plant"
