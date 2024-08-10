@@ -558,6 +558,54 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1018
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1019
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1020
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1021
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1022
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1023
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1024
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1025
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/decor/plant"
