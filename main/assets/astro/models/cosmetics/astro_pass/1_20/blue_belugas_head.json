@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/2d/blue_belugas",
-		"particle": "item/2d/bluebadgers"
+		"1": "item/plushies/blue_belugas",
+		"particle": "item/plushies/bluebadgers"
 	},
 	"elements": [
 		{
