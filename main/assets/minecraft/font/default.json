@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bcredit.png",
+            "file": "minecraft:custom/astro.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
