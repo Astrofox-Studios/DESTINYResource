@@ -432,6 +432,24 @@
         },
         {
             "type": "bitmap",
+            "file": "minecraft:custom/astrologo2.png",
+            "ascent": 30,
+            "height": 70,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/astrologo.png",
+            "ascent": 30,
+            "height": 70,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "minecraft:custom/move_select.png", 
             "ascent": 27,
             "height": 256,
