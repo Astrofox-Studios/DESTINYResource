@@ -268,6 +268,18 @@
 
 		]
     },
+			"sound.custom.overtime":{
+		"sounds": [
+				"custom/overtime"
+
+		]
+    },
+			"sound.custom.afterparty":{
+		"sounds": [
+				"custom/afterparty"
+
+		]
+    },
 			"sound.custom.intro":{
 		"sounds": [
 				"custom/intro"
@@ -384,9 +396,15 @@
 
 		]
 	},
-	"sound.custom.domination":{
+	"sound.custom.catacysm":{
 		"sounds": [
-           "custom/domination"
+           "custom/catacysm"
+
+		]
+    },
+	"sound.custom.catacysm_grace":{
+		"sounds": [
+           "custom/catacysm_grace"
 
 		]
     },
