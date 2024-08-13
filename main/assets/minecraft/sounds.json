@@ -113,6 +113,11 @@
            "block/barrel_close"
 		]
     },
+	"sound.custom.endevent":{
+		"sounds": [
+		"records/blocks"
+		]
+	},
 	"sound.custom.birds":{
 		"sounds": [
             {
