@@ -396,15 +396,15 @@
 
 		]
 	},
-	"sound.custom.catacysm":{
+	"sound.custom.cataclysm":{
 		"sounds": [
-           "custom/catacysm"
+           "custom/cataclysm"
 
 		]
     },
-	"sound.custom.catacysm_grace":{
+	"sound.custom.cataclysm_grace":{
 		"sounds": [
-           "custom/catacysm_grace"
+           "custom/cataclysm_grace"
 
 		]
     },
