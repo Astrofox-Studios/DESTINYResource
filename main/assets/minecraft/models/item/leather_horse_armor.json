@@ -442,6 +442,24 @@
             },
             "model": "item/weapons/thunderbolt"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 123
+            },
+            "model": "item/decor/exp_host_board"
+        },
+   	{
+            "predicate": {
+                "custom_model_data": 124
+            },
+            "model": "item/decor/astrofox_board"
+        },
+   	{
+            "predicate": {
+                "custom_model_data": 125
+            },
+            "model": "item/decor/tropiclash_board"
+        },
         {
             "predicate": {
                 "custom_model_data": 800
