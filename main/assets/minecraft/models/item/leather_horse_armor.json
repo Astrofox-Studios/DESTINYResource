@@ -460,6 +460,12 @@
             },
             "model": "item/decor/tropiclash_board"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 126
+            },
+            "model": "item/decor/astrodestiny_board"
+        },
         {
             "predicate": {
                 "custom_model_data": 800
