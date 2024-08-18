@@ -472,6 +472,12 @@
             },
             "model": "item/decor/jump_board"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 128
+            },
+            "model": "item/decor/exclamationmark"
+        },
         {
             "predicate": {
                 "custom_model_data": 800
