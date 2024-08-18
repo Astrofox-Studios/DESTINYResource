@@ -478,6 +478,12 @@
             },
             "model": "item/decor/exclamationmark"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 129
+            },
+            "model": "item/decor/astrovertical_board"
+        },
         {
             "predicate": {
                 "custom_model_data": 800
