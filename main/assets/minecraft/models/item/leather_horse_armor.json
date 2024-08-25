@@ -648,6 +648,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1026
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/decor/plant"
