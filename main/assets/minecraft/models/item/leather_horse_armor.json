@@ -484,6 +484,12 @@
             },
             "model": "item/decor/astrovertical_board"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "item/decor/checkpoint_hologram"
+        },
         {
             "predicate": {
                 "custom_model_data": 800

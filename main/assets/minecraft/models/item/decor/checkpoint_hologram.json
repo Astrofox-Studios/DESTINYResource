@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/checkpoint_hologram",
+		"particle": "block/checkpoint_hologram"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 8],
+			"to": [8, 16, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 0, 6]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "rotation": 90, "texture": "#0", "tintindex": 0},
+				"east": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#missing"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#missing"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#missing"}
+			}
+		}
+	]
+}
