@@ -340,22 +340,6 @@
 
 		]
     },
-	
-	
-	"sound.custom.ta_start":{
-		"sounds": [
-				"custom/ta_start"
-
-		]
-    },
-
-		
-	"sound.custom.ta_ost":{
-		"sounds": [
-				"custom/ta_ost"
-
-		]
-    },
 
 	"sound.custom.jump_boost1":{
 		"sounds": [
@@ -534,31 +518,6 @@
            "custom/race_to_the_finish"
 		]
     },
-	"sound.custom.dooropen":{
-		"sounds": [
-           "custom/dooropen"
-		]
-    },
-	"sound.custom.fillsand":{
-		"sounds": [
-           "custom/fillsand"
-		]
-    },
-	"sound.custom.fillsand2":{
-		"sounds": [
-           "custom/fillsand2"
-		]
-    },
-	"sound.custom.tick":{
-		"sounds": [
-           "custom/tick"
-		]
-    },
-	"sound.custom.ost":{
-		"sounds": [
-           "custom/ost"
-		]
-    },
 	"sound.custom.selection_sphere":{
 		"sounds": [
            "custom/selection_sphere"
@@ -569,55 +528,15 @@
            "custom/startgame"
 		]
     },
-	"sound.custom.starttimer":{
-		"sounds": [
-           "custom/starttimer"
-		]
-    },
-	"sound.custom.tickhigh":{
-		"sounds": [
-           "custom/tick/tickhigh"
-		]
-    },
-	"sound.custom.ticklow":{
-		"sounds": [
-           "custom/tick/ticklow"
-		]
-    },
-	"sound.custom.tickultralow":{
-		"sounds": [
-           "custom/tick/tickultralow"
-		]
-    },
-	"sound.custom.key":{
-		"sounds": [
-           "custom/key"
-		]
-    },
-	"sound.custom.vault":{
-		"sounds": [
-           "custom/vault"
-		]
-    },
 	"sound.custom.voidhunters":{
 		"sounds": [
            "custom/voidhunters"
 		]
 
     },
-	"sound.custom.wing_ring1":{
-		"sounds": [
-           "custom/wing_ring.1"
-		]
-    },
 	"sound.custom.game_end":{
 		"sounds": [
            "custom/game_end"
-		]
-    },
-	"sound.custom.jump_pad.2":{
-		"sounds": [
-           "custom/games.ace_race.jump_pad.2"
 		]
     },
 	"sound.custom.map.update":{
@@ -644,11 +563,6 @@
 	"sound.custom.win":{
 		"sounds": [
            "custom/win"
-		]
-    },
-    "sound.custom.droid_music_1":{
-		"sounds": [
-           "custom/corrupteddroid/music/music"
 		]
     }
 }
