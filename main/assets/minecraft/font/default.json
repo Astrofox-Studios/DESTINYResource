@@ -837,7 +837,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:_font/gui/compass.png", 
+            "file": "astro:_font/gui/compass2.png", 
             "ascent": 28,
             "height": 256,
             "chars": [
