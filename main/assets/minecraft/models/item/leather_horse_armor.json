@@ -484,6 +484,12 @@
             },
             "model": "item/decor/astrovertical_board"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 130
+            },
+            "model": "item/decor/checkpoint_hologram"
+        },
         {
             "predicate": {
                 "custom_model_data": 800
@@ -645,6 +651,12 @@
                 "custom_model_data": 1025
             },
             "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1026
+            },
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
         },
         {
             "predicate": {
