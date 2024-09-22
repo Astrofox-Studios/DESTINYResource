@@ -560,6 +560,16 @@
            "custom/sb" 
 		]
     },
+	"sound.custom.bh":{
+		"sounds": [
+           "custom/bh" 
+		]
+    },
+	"sound.custom.bhstart":{
+		"sounds": [
+           "custom/bhstart" 
+		]
+    },
 	"sound.custom.win":{
 		"sounds": [
            "custom/win"
