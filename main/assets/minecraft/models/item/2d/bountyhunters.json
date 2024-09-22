@@ -1,6 +1,6 @@
 {
     "textures": {
-        "layer0": "item/2d/bountyhunters.png"
+        "layer0": "item/2d/bountyhunters"
     },
     "parent": "item/generated"
 }
