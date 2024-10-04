@@ -1,6 +1,0 @@
-{
-    "textures": {
-        "layer0": "astro:_font/icons/astrofox/admin"
-    },
-    "parent": "item/generated"
-}
