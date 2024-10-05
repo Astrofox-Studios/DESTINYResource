@@ -681,6 +681,12 @@
                 "custom_model_data": 1103
             },
             "model": "item/decor/bench4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1104
+            },
+            "model": "item/cosmetics/mushroom_hat"
         }
     ]
 }
