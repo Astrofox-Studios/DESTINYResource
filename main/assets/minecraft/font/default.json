@@ -2,7 +2,7 @@
     "providers": [
         {
             "type": "ttf",
-            "file": "minecraft:negative_spaces.ttf",
+            "file": "astro:negative_spaces.ttf",
             "shift": [0.0, 0.0],
             "size": 10.0,
             "oversample": 1.0
@@ -18,7 +18,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/fire.png",
+            "file": "astro:custom/fire.png",
             "ascent": 9,
             "height": 9,
             "chars": [
@@ -27,7 +27,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/astro.png",
+            "file": "astro:custom/astro.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -36,7 +36,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/ycredit.png",
+            "file": "astro:custom/ycredit.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -45,7 +45,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/gcredit.png",
+            "file": "astro:custom/gcredit.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -315,7 +315,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/wool.png",
+            "file": "astro:custom/wool.png",
             "ascent": 8.5,
             "height": 8,
             "chars": [
@@ -387,7 +387,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bossbarmovement1.png",
+            "file": "astro:custom/bossbarmovement1.png",
             "ascent": 7.5,
             "height": 16,
             "chars": [
@@ -405,7 +405,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/ycredit.png",
+            "file": "astro:custom/ycredit.png",
             "ascent": 7.5,
             "height": 16,
             "chars": [
@@ -414,7 +414,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/minecraft2.png",
+            "file": "astro:custom/minecraft2.png",
             "ascent": 30,
             "height": 70,
             "chars": [
@@ -423,7 +423,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/minecraft.png",
+            "file": "astro:custom/minecraft.png",
             "ascent": 30,
             "height": 70,
             "chars": [
@@ -432,7 +432,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/astrologo2.png",
+            "file": "astro:custom/astrologo2.png",
             "ascent": 30,
             "height": 70,
             "chars": [
@@ -441,7 +441,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/astrologo.png",
+            "file": "astro:custom/astrologo.png",
             "ascent": 30,
             "height": 70,
             "chars": [
@@ -450,7 +450,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/move_select.png", 
+            "file": "astro:custom/move_select.png", 
             "ascent": 27,
             "height": 256,
             "chars": [
@@ -459,7 +459,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/walkie_talkie.png", 
+            "file": "astro:custom/walkie_talkie.png", 
             "ascent": 27,
             "height": 256,
             "chars": [
@@ -468,7 +468,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh_kit_select.png", 
+            "file": "astro:custom/vh_kit_select.png", 
             "ascent": 27,
             "height": 256,
             "chars": [
@@ -477,7 +477,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/ctf_kit_select.png", 
+            "file": "astro:custom/ctf_kit_select.png", 
             "ascent": 27,
             "height": 256,
             "chars": [
@@ -486,7 +486,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh.png", 
+            "file": "astro:custom/vh.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -495,7 +495,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh_wall.png", 
+            "file": "astro:custom/vh_wall.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -504,7 +504,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh_turret.png", 
+            "file": "astro:custom/vh_turret.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -513,7 +513,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh_red.png", 
+            "file": "astro:custom/vh_red.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -522,7 +522,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/vh_cam.png", 
+            "file": "astro:custom/vh_cam.png", 
             "ascent": 8,
             "height": 8,
             "chars": [
@@ -531,7 +531,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/sts.png", 
+            "file": "astro:custom/sts.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -540,7 +540,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic.png", 
+            "file": "astro:custom/cosmic.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -549,7 +549,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/castle.png", 
+            "file": "astro:custom/castle.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -558,7 +558,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/movement.png", 
+            "file": "astro:custom/movement.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -567,7 +567,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/wipeout.png", 
+            "file": "astro:custom/wipeout.png", 
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -576,7 +576,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/ststitle.png",
+            "file": "astro:custom/ststitle.png",
             "ascent": 32,
             "height": 64,
             "chars": [
@@ -585,7 +585,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/selection.png",
+            "file": "astro:custom/selection.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -594,7 +594,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:item/2d/games/domination.png",
+            "file": "astro:custom/domination.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -612,7 +612,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bossbarvoid1.png", 
+            "file": "astro:custom/bossbarvoid1.png", 
             "ascent": 14,
             "height": 40,
             "chars": [
@@ -621,7 +621,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/bossbarcosmic1.png", 
+            "file": "astro:custom/bossbarcosmic1.png", 
             "ascent": 14,
             "height": 40,
             "chars": [
@@ -630,7 +630,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/wool_icon.png",
+            "file": "astro:custom/wool_icon.png",
             "ascent": 28,
             "height": 30,
             "chars": [
@@ -639,7 +639,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/kill_icon.png",
+            "file": "astro:custom/kill_icon.png",
             "ascent": 28,
             "height": 30,
             "chars": [
@@ -648,7 +648,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/player_icon.png",
+            "file": "astro:custom/player_icon.png",
             "ascent": 28,
             "height": 30,
             "chars": [
@@ -693,7 +693,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic_fuel_green.png",
+            "file": "astro:custom/cosmic_fuel_green.png",
             "ascent": -6,
             "height": 16,
             "chars": [
@@ -702,7 +702,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic_fuel_yellow.png",
+            "file": "astro:custom/cosmic_fuel_yellow.png",
             "ascent": -6,
             "height": 16,
             "chars": [
@@ -711,7 +711,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic_fuel_orange.png",
+            "file": "astro:custom/cosmic_fuel_orange.png",
             "ascent": -6,
             "height": 16,
             "chars": [
@@ -720,7 +720,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic_fuel_red.png",
+            "file": "astro:custom/cosmic_fuel_red.png",
             "ascent": -6,
             "height": 16,
             "chars": [
@@ -729,7 +729,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/cosmic_fuel_gray.png",
+            "file": "astro:custom/cosmic_fuel_gray.png",
             "ascent": -6,
             "height": 16,
             "chars": [
@@ -855,7 +855,7 @@
         },
         {
             "type": "bitmap",
-            "file": "minecraft:custom/fade.png", 
+            "file": "astro:custom/fade.png", 
             "ascent": 1080,
             "height": 2160,
             "chars": [
