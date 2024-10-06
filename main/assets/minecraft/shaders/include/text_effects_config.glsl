@@ -1,9 +1,3 @@
-TEXT_EFFECT(240, 240, 0) {
-    apply_shaking_movement();
-    override_text_color(rgb(255, 82, 82));
-    override_shadow_color(rgb(100, 20, 80));
-}
-
 TEXT_EFFECT(240, 240, 4) {
     apply_waving_movement();
     override_text_color(rgb(255, 235, 60));
