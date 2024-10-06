@@ -490,6 +490,12 @@
             },
             "model": "item/decor/checkpoint_hologram"
         },
+   	{
+            "predicate": {
+                "custom_model_data": 131
+            },
+            "model": "item/decor/fan"
+        },
         {
             "predicate": {
                 "custom_model_data": 800

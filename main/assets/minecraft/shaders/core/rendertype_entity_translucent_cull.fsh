@@ -1,0 +1,4 @@
+#version 150
+#moj_import <fog.glsl>
+#moj_import <emissive_utils.glsl>
+uniform sampler2D Sampler0;uniform vec4 ColorModulator;uniform float FogStart;uniform float FogEnd;uniform vec4 FogColor;in float vertexDistance;in vec4 vertexColor;in vec4 lightColor;in vec4 maxLightColor;in vec2 texCoord0;in vec2 texCoord1;in vec4 normal;flat in int hideVertex;out vec4 fragColor;void main(){vec4 rawColor=texture(Sampler0,texCoord0);vec4 color=rawColor*vertexColor*ColorModulator;if(hideVertex==1&&vertexDistance<=800){float alpha=textureLod(Sampler0,texCoord0,0.).a;if(alpha==252./255.)discard;}float alpha=textureLod(Sampler0,texCoord0,0.).a*255.;color=make_emissive(color,lightColor,maxLightColor,vertexDistance,alpha);color.a=remap_alpha(alpha)/255.;if(color.a<0.1)discard;fragColor=linear_fog(color,vertexDistance,FogStart,FogEnd,FogColor);}
