@@ -879,6 +879,15 @@
             "chars": [
                 ""
             ]
-        }
+        },
+        {
+            "type": "bitmap",
+            "file": "astro:_font/icons/astrofox/cam.png",
+            "ascent": 8.5,
+            "height": 9,
+            "chars": [
+                ""
+            ]
+        },
     ]
 }
