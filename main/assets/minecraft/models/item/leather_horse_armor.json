@@ -666,6 +666,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 1027
+            },
+            "model": "item/handhelds/fox_plushy"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 1100
             },
             "model": "item/decor/plant"
