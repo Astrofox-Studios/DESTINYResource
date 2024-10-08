@@ -574,5 +574,10 @@
 		"sounds": [
            "custom/win"
 		]
+    },
+	"sound.custom.elevator":{
+		"sounds": [
+           "custom/elevator"
+		]
     }
 }
