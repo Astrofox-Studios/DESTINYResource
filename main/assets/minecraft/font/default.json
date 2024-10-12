@@ -888,6 +888,15 @@
             "chars": [
                 ""
             ]
+        },
+        {
+            "type": "bitmap",
+            "file": "item/2d/boat.png",
+            "ascent": 8.5,
+            "height": 9,
+            "chars": [
+                ""
+            ]
         }
     ]
 }
