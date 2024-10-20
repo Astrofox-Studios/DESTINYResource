@@ -5,8 +5,8 @@
 		"0": "block/light_terracotta",
 		"1": "block/light_gray_terracotta",
 		"3": "block/polished_andesite",
-		"6": "block/yellow_terracotta",
-		"7": "block/orange_terracotta",
+		"6": "block/light_blue_terracotta",
+		"7": "block/blue_terracotta",
 		"particle": "block/light_terracotta"
 	},
 	"elements": [
@@ -220,7 +220,8 @@
 			"scale": [0.5, 0.5, 0.5]
 		},
 		"ground": {
-			"scale": [0.5, 0.5, 0.5]
+			"translation": [0, 28, 0],
+			"scale": [1.5, 1.5, 1.5]
 		},
 		"gui": {
 			"rotation": [3, -24, -6],
