@@ -580,6 +580,11 @@
            "custom/winsfx"
 		]
     },
+	"sound.custom.dusk":{
+		"sounds": [
+           "custom/dusk"
+		]
+    },
 	"sound.custom.elevator":{
 		"sounds": [
            "custom/elevator"
