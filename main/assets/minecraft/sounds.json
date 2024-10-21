@@ -575,6 +575,11 @@
            "custom/win"
 		]
     },
+	"sound.custom.winsfx":{
+		"sounds": [
+           "custom/winsfx"
+		]
+    },
 	"sound.custom.elevator":{
 		"sounds": [
            "custom/elevator"
