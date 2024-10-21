@@ -89,8 +89,8 @@
     "music.under_water": {
       "replace": true
     },
-	"kill":{
-		"astro:sounds": [
+	"sound.custom.kill":{
+		"sounds": [
            "custom/kill"
 		]
 	},
@@ -113,13 +113,13 @@
            "block/barrel_close"
 		]
     },
-	"endevent":{
-		"astro:sounds": [
+	"sound.custom.endevent":{
+		"sounds": [
 		"records/blocks"
 		]
 	},
-	"birds":{
-		"astro:sounds": [
+	"sound.custom.birds":{
+		"sounds": [
             {
                 "name": "custom/birds/birds1"
             },
@@ -153,8 +153,8 @@
 
 		]
     },
-	"waves":{
-		"astro:sounds": [
+	"sound.custom.waves":{
+		"sounds": [
             {
                 "name": "custom/water/wave1"
             },
@@ -176,8 +176,8 @@
             
 		]
     },
-	"death":{
-		"astro:sounds": [
+	"sound.custom.death":{
+		"sounds": [
             {
 				"name": "custom/death/death1"
 			},
@@ -195,8 +195,8 @@
 			}
 		]
 	},
-	"wind":{
-		"astro:sounds": [
+	"sound.custom.wind":{
+		"sounds": [
 			{
 				"name": "custom/ambientwind/ambientwind1"
 			},
@@ -225,8 +225,8 @@
 		]
 
 	},
-	"speed_boost1":{
-		"astro:sounds": [
+	"sound.custom.speed_boost1":{
+		"sounds": [
 			{
 				"name": "custom/speedpad/speedpad1"
 			},
@@ -242,8 +242,8 @@
 
 		]
     },
-		"glide_death":{
-		"astro:sounds": [
+		"sound.custom.glide_death":{
+		"sounds": [
             {
 				"name": "custom/death/death1"
 			},
@@ -260,89 +260,89 @@
 		]
 
     },
-			"cook":{
-		"astro:sounds": [
+			"sound.custom.cook":{
+		"sounds": [
 				"custom/cook"
 
 		]
 
     },
-			"wipeout":{
-		"astro:sounds": [
+			"sound.custom.wipeout":{
+		"sounds": [
 				"custom/wipeout"
 
 		]
     },
-			"overtime":{
-		"astro:sounds": [
+			"sound.custom.overtime":{
+		"sounds": [
 				"custom/overtime"
 
 		]
     },
-			"afterparty":{
-		"astro:sounds": [
+			"sound.custom.afterparty":{
+		"sounds": [
 				"custom/afterparty"
 
 		]
     },
-			"intro":{
-		"astro:sounds": [
+			"sound.custom.intro":{
+		"sounds": [
 				"custom/intro"
 
 		]
     },
-			"wipeout1":{
-		"astro:sounds": [
+			"sound.custom.wipeout1":{
+		"sounds": [
 				"custom/wipeout1"
 
 		]
     },
-			"microwave":{
-		"astro:sounds": [
+			"sound.custom.microwave":{
+		"sounds": [
 				"custom/microwave"
 
 		]
     },
-			"whyblue":{
-		"astro:sounds": [
+			"sound.custom.whyblue":{
+		"sounds": [
 				"custom/why_are_you_blue"
 
 		]
     },
-			"jessie":{
-		"astro:sounds": [
+			"sound.custom.jessie":{
+		"sounds": [
 				"custom/jessie"
 
 		]
     },
-			"someone_cooked":{
-		"astro:sounds": [
+			"sound.custom.someone_cooked":{
+		"sounds": [
 				"custom/someone_cooked"
 
 		]
     },
-				"face":{
-		"astro:sounds": [
+				"sound.custom.face":{
+		"sounds": [
 				"custom/face"
 
 		]
     },
-			"glide_ost":{
-		"astro:sounds": [
+			"sound.custom.glide_ost":{
+		"sounds": [
 				"custom/glide/glide_1"
 
 		]
     },
 
-	"glide_ost2":{
-		"astro:sounds": [
+	"sound.custom.glide_ost2":{
+		"sounds": [
 				"custom/glide/glide_2"
 
 		]
     },
 
-	"jump_boost1":{
-		"astro:sounds": [
+	"sound.custom.jump_boost1":{
+		"sounds": [
 			{
 				"name": "custom/jumppad/jump_pad1"
 			},
@@ -356,8 +356,8 @@
 		]
     },
 
-	"click":{
-		"astro:sounds": [
+	"sound.custom.click":{
+		"sounds": [
 			{
 				"name": "custom/click1"
 			},
@@ -371,8 +371,8 @@
 		]
 	},
 
-	"shard":{
-		"astro:sounds": [
+	"sound.custom.shard":{
+		"sounds": [
 			{
 				"name": "custom/shard1"
 			},
@@ -385,198 +385,198 @@
 
 		]
 	},
-	"cataclysm":{
-		"astro:sounds": [
+	"sound.custom.cataclysm":{
+		"sounds": [
            "custom/cataclysm"
 
 		]
     },
-	"cataclysm_grace":{
-		"astro:sounds": [
+	"sound.custom.cataclysm_grace":{
+		"sounds": [
            "custom/cataclysm_grace"
 
 		]
     },
-	"exit":{
-		"astro:sounds": [
+	"sound.custom.exit":{
+		"sounds": [
 		"custom/exit"
 
 		]
 	},
-	"cosmic":{
-		"astro:sounds": [
+	"sound.custom.cosmic":{
+		"sounds": [
 		"custom/cosmic"
 
 		]
 	},
-		"movement_swim":{
-		"astro:sounds": [
+		"sound.custom.movement_swim":{
+		"sounds": [
            "custom/swim"
 
 		]
 
 	},
-	"movement_boat":{
-	"astro:sounds": [
+	"sound.custom.movement_boat":{
+	"sounds": [
 	   "custom/boat"
 
 	]
 
     },
-	"squeeze":{
-		"astro:sounds": [
+	"sound.custom.squeeze":{
+		"sounds": [
 		   "custom/squeeze"
 	
 		]
 	
 		},
-		"glide_best_time":{
-		"astro:sounds": [
+		"sound.custom.glide_best_time":{
+		"sounds": [
            "custom/best_time"
 
 		]
     },
-		"glide_best_score":{
-		"astro:sounds": [
+		"sound.custom.glide_best_score":{
+		"sounds": [
            "custom/best_score"
 
 		]
     },
-		"glide_boost1":{
-		"astro:sounds": [
+		"sound.custom.glide_boost1":{
+		"sounds": [
            "custom/boost"
 
 		]
     },
-	"glide_boost2":{
-		"astro:sounds": [
+	"sound.custom.glide_boost2":{
+		"sounds": [
            "custom/humid_boost"
 
 		]
     },
-	"glide_checkpoint":{
-		"astro:sounds": [
+	"sound.custom.glide_checkpoint":{
+		"sounds": [
            "custom/checkpoint"
 
 		]
     },
-	"glide_finish":{
-		"astro:sounds": [
+	"sound.custom.glide_finish":{
+		"sounds": [
            "custom/finish_line"
 
 		]
     },
-	"ping":{
-		"astro:sounds": [
+	"sound.custom.ping":{
+		"sounds": [
            "custom/ping"
 
 		]
     },
-	"tag":{
-		"astro:sounds": [
+	"sound.custom.tag":{
+		"sounds": [
            "custom/tag"
 
 		]
     },
-	"mini_alert":{
-		"astro:sounds": [
+	"sound.custom.mini_alert":{
+		"sounds": [
            "custom/mini_alert"
 
 		]
     },
-	"lobby":{
-		"astro:sounds": [
+	"sound.custom.lobby":{
+		"sounds": [
            "custom/lobby/lobby"
 
 		]
     },
-	"lobby2":{
-		"astro:sounds": [
+	"sound.custom.lobby2":{
+		"sounds": [
            "custom/lobby/lobby2"
 
 		]
     },
-	"warn1":{
-		"astro:sounds": [
+	"sound.custom.warn1":{
+		"sounds": [
            "custom/warn1"
 
 		]
     },
-	"warn2":{
-		"astro:sounds": [
+	"sound.custom.warn2":{
+		"sounds": [
            "custom/warn2"
 
 		]
     },
-	"sts":{
-		"astro:sounds": [
+	"sound.custom.sts":{
+		"sounds": [
            "custom/sts"
 		]
     },
-	"rttf":{
-		"astro:sounds": [
+	"sound.custom.rttf":{
+		"sounds": [
            "custom/race_to_the_finish"
 		]
     },
-	"selection_sphere":{
-		"astro:sounds": [
+	"sound.custom.selection_sphere":{
+		"sounds": [
            "custom/selection_sphere"
 		]
     },
-	"startgame":{
-		"astro:sounds": [
+	"sound.custom.startgame":{
+		"sounds": [
            "custom/startgame"
 		]
     },
-	"voidhunters":{
-		"astro:sounds": [
+	"sound.custom.voidhunters":{
+		"sounds": [
            "custom/voidhunters"
 		]
 
     },
-	"game_end":{
-		"astro:sounds": [
+	"sound.custom.game_end":{
+		"sounds": [
            "custom/game_end"
 		]
     },
-	"map.update":{
-		"astro:sounds": [
+	"sound.custom.map.update":{
+		"sounds": [
            "custom/games.global.objective.map.update"
 		]
     },
-	"objective_completed":{
-		"astro:sounds": [
+	"sound.custom.objective_completed":{
+		"sounds": [
            "custom/games.global.objective.objective_completed"
 		]
     },
-	"capturethefslag":{
-		"astro:sounds": [
+	"sound.custom.capturethefslag":{
+		"sounds": [
            "custom/capturetheflag"
 		]
     },
 
-	"sb":{
-		"astro:sounds": [
+	"sound.custom.sb":{
+		"sounds": [
            "custom/sb" 
 		]
     },
-	"bh":{
-		"astro:sounds": [
+	"sound.custom.bh":{
+		"sounds": [
            "custom/bh" 
 		]
     },
-	"bhstart":{
-		"astro:sounds": [
+	"sound.custom.bhstart":{
+		"sounds": [
            "custom/bhstart" 
 		]
     },
-	"win":{
-		"astro:sounds": [
+	"sound.custom.win":{
+		"sounds": [
            "custom/win"
 		]
     },
-	"elevator":{
-		"astro:sounds": [
+	"sound.custom.elevator":{
+		"sounds": [
            "custom/elevator"
 		]
     }
