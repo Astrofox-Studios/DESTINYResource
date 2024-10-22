@@ -9,6 +9,6 @@
     },
     "textures": {
         "end": "block/carved_pumpkin_top",
-        "side": "block/pumpkin_side"
+        "side": "block/carved_pumpkin"
     }
 }
