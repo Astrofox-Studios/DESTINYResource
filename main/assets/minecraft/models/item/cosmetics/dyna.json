@@ -5,7 +5,7 @@
 		"0": "block/red_terracotta",
 		"1": "block/stripped_crimson_stem_top",
 		"2": "block/black_terracotta",
-		"3": "block/dyna_flame",
+		"3": "item/cosmetics/dyna_flame",
 		"particle": "block/red_terracotta"
 	},
 	"elements": [
