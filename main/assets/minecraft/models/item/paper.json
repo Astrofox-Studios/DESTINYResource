@@ -69,6 +69,7 @@
  {"predicate": {"custom_model_data":543}, "model": "item/cosmetics/grave_skull"},
  {"predicate": {"custom_model_data":544}, "model": "item/cosmetics/fox_head_statue_halloween"},
  {"predicate": {"custom_model_data":545}, "model": "item/cosmetics/grave_skull_glow"},
+ {"predicate": {"custom_model_data":546}, "model": "item/cosmetics/witchhat"},
  {"predicate": {"custom_model_data":40001}, "model": "item/pots/shard_healing"},
  {"predicate": {"custom_model_data":40002}, "model": "item/pots/shard_speed"},
  {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
