@@ -10,8 +10,8 @@
         {
             "type": "bitmap",
             "file": "astro:_font/icons/rarity/ink.png",
-            "ascent": 9,
-            "height": 9,
+            "ascent": 7.5,
+            "height": 8,
             "chars": [
                 ""
             ]
