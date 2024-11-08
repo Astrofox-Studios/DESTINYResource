@@ -589,5 +589,15 @@
 		"sounds": [
            "custom/elevator"
 		]
+    },
+	"sound.custom.splatshot_start":{
+		"sounds": [
+           "custom/splatshot_start"
+		]
+    },
+	"sound.custom.splatshot":{
+		"sounds": [
+           "custom/splatshot"
+		]
     }
 }
