@@ -599,5 +599,10 @@
 		"sounds": [
            "custom/splatshot"
 		]
+    },
+	"sound.custom.selection_xmas":{
+		"sounds": [
+           "custom/selection_sphere_xmas"
+		]
     }
 }
