@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/Cosmetics/skeleton",
+		"0": "item/cosmetics/skeleton",
 		"1": "block/amethyst_cluster",
 		"2": "block/oak_log",
 		"3": "block/stripped_dark_oak_log",
 		"4": "block/stripped_spruce_log",
-		"particle": "item/Cosmetics/skeleton"
+		"particle": "item/cosmetics/skeleton"
 	},
 	"elements": [
 		{

@@ -3,7 +3,7 @@
 	"textures": {
 		"0": "block/smooth_stone",
 		"1": "block/grave",
-		"2": "item/Cosmetics/skeleton",
+		"2": "item/cosmetics/skeleton",
 		"particle": "block/smooth_stone"
 	},
 	"elements": [
