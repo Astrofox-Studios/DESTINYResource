@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v3
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash
@@ -18,7 +18,7 @@ jobs:
           options: |
             # Optimize the pack in the root repository directory.
             # This is the default value for pack_directory when no PackSquash options are defined
-            pack_directory = '.'
+            pack_directory = 'main'
 
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
@@ -26,7 +26,7 @@ jobs:
             zip_spec_conformance_level = 'disregard'
             size_increasing_zip_obfuscation = true
       - name: Tag and create release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v1
         with:
           tag_name: v${{ github.run_number }}
           files: /tmp/pack.zip
