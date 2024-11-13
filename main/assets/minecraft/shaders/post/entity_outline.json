@@ -1,48 +1,52 @@
 {
-    "targets": [
-        "swap",
-        "final"
+    "vertex": "minecraft:post/sobel",
+    "fragment": "minecraft:post/entity_sobel",
+    "samplers": [
+        {
+            "name": "InSampler"
+        }
     ],
-    "passes": [
+    "uniforms": [
         {
-            "name": "entity_outline",
-            "intarget": "final",
-            "outtarget": "swap"
-        },
-        {
-            "name": "blur",
-            "intarget": "swap",
-            "outtarget": "final",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 0.7, 0.0 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 1.0 ]
-                }
+            "name": "ProjMat",
+            "type": "matrix4x4",
+            "count": 16,
+            "values": [
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0,
+                0.0,
+                0.0,
+                0.0,
+                0.0,
+                1.0
             ]
         },
         {
-            "name": "blur",
-            "intarget": "final",
-            "outtarget": "swap",
-            "uniforms": [
-                {
-                    "name": "BlurDir",
-                    "values": [ 0.0, 0.7 ]
-                },
-                {
-                    "name": "Radius",
-                    "values": [ 1.0 ]
-                }
+            "name": "InSize",
+            "type": "float",
+            "count": 2,
+            "values": [
+                1.0,
+                1.0
             ]
         },
         {
-            "name": "blit",
-            "intarget": "swap",
-            "outtarget": "final"
+            "name": "OutSize",
+            "type": "float",
+            "count": 2,
+            "values": [
+                1.0,
+                1.0
+            ]
         }
     ]
 }
