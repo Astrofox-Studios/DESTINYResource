@@ -852,6 +852,15 @@
         },
         {
             "type": "bitmap",
+            "file": "astro:_font/gui/team_picker.png", 
+            "ascent": 28,
+            "height": 256,
+            "chars": [
+                "" 
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:custom/fade.png", 
             "ascent": 1080,
             "height": 2160,
