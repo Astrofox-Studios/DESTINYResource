@@ -717,6 +717,12 @@
                 "custom_model_data": 1103
             },
             "model": "item/decor/bench4"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1200
+            },
+            "model": "item/other/magic_arrow"
         }
     ]
 }
