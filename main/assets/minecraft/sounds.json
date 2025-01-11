@@ -604,5 +604,15 @@
 		"sounds": [
            "custom/selection_sphere_xmas"
 		]
+    },
+	"entity.firework_rocket.blast":{
+		"sounds": [
+           "fireworks/blast1"
+		]
+    },
+	"entity.firework_rocket.blast_far":{
+		"sounds": [
+           "fireworks/largeblast1"
+		]
     }
 }
