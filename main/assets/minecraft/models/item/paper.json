@@ -85,6 +85,7 @@
  {"predicate": {"custom_model_data":6969420}, "model": "item/weapons/walkie"},
  {"predicate": {"custom_model_data":6969421}, "model": "item/2d/r_button"},
  {"predicate": {"custom_model_data":6969422}, "model": "item/2d/speaker"},
- {"predicate": {"custom_model_data":6969423}, "model": "item/2d/ticket"}
+ {"predicate": {"custom_model_data":6969423}, "model": "item/2d/ticket"},
+ {"predicate": {"custom_model_data":6969424}, "model": "item/2d/settings-tick"}
  ]
 }
