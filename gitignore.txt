@@ -1,6 +1,0 @@
-# Tools
-tools/
-
-# Texture assets
-*.ase
-*.psd

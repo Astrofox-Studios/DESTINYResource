@@ -1,4 +1,4 @@
-name: Optimize and encrypt the resource pack
+name: Optimize resource pack
 on: [push]
 permissions:
   contents: write
@@ -12,10 +12,19 @@ jobs:
         with:
           fetch-depth: 0 # A non-shallow repository clone is required
       - name: Run PackSquash
-        uses: ComunidadAylas/PackSquash-action@v4
+        uses: ComunidadAylas/PackSquash-action@v4.0.2
         with:
-          packsquash_version: latest # Uses the latest PackSquash release supported by the action
-          options: 'packsquash.toml'
+          packsquash_version: latest
+          options: |
+            # Optimize the pack in the root repository directory.
+            # This is the default value for pack_directory when no PackSquash options are defined
+            pack_directory = 'main'
+
+            # Set a custom output file path to work with the generated ZIP file
+            # without needing to download its artifact in a separate step
+            output_file_path = '/tmp/pack.zip'
+            zip_spec_conformance_level = 'disregard'
+            size_increasing_zip_obfuscation = true
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
