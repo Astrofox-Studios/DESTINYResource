@@ -604,5 +604,15 @@
 		"sounds": [
            "custom/selection_sphere_xmas"
 		]
+    },
+	"sound.custom.voidclash":{
+		"sounds": [
+           "custom/voidclash"
+		]
+    },
+	"sound.custom.vcupgrades":{
+		"sounds": [
+           "custom/vcupgrades"
+		]
     }
 }
