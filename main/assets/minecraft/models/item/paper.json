@@ -75,6 +75,7 @@
  {"predicate": {"custom_model_data":549}, "model": "item/2d/gray_soul"},
  {"predicate": {"custom_model_data":550}, "model": "item/cosmetics/cat_ears"},
  {"predicate": {"custom_model_data":551}, "model": "item/cosmetics/ghost"},
+ {"predicate": {"custom_model_data":552}, "model": "item/decor/destinysign"},
  {"predicate": {"custom_model_data":40001}, "model": "item/pots/shard_healing"},
  {"predicate": {"custom_model_data":40002}, "model": "item/pots/shard_speed"},
  {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
