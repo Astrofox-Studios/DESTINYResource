@@ -614,5 +614,40 @@
 		"sounds": [
            "custom/vcupgrades"
 		]
+    },
+	"entity.firework_rocket.blast":{
+		"sounds": [
+           "fireworks/blast1"
+		]
+    },
+	"entity.firework_rocket.blast_far":{
+		"sounds": [
+           "fireworks/blast_far1"
+		]
+    },
+	"entity.firework_rocket.large_blast":{
+		"sounds": [
+           "fireworks/largeblast1"
+		]
+    },
+	"entity.firework_rocket.large_blast_far":{
+		"sounds": [
+           "fireworks/largeblast_far1"
+		]
+    },
+	"entity.firework_rocket.launch":{
+		"sounds": [
+           "fireworks/launch1"
+		]
+    },
+	"entity.firework_rocket.twinkle":{
+		"sounds": [
+           "fireworks/twinkle1"
+		]
+    },
+	"entity.firework_rocket.twinkle_far":{
+		"sounds": [
+           "fireworks/twinkle_far1"
+		]
     }
 }
