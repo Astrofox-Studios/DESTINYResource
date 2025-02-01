@@ -498,6 +498,12 @@
         },
         {
             "predicate": {
+                "custom_model_data": 132
+            },
+            "model": "item/decor/exp_host_board_new"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 800
             },
             "model": "astro:cosmetics/astro_pass/1_20/plushie1"
