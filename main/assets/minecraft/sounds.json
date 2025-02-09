@@ -649,5 +649,10 @@
 		"sounds": [
            "fireworks/twinkle_far1"
 		]
+    },
+	"sound.custom.amazing":{
+		"sounds": [
+           "custom/amazing"
+		]
     }
 }
