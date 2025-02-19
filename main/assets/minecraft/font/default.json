@@ -385,8 +385,8 @@
         {
             "type": "bitmap",
             "file": "astro:custom/bossbarmovement1.png",
-            "ascent": 7.5,
-            "height": 16,
+            "ascent": 14,
+            "height": 40,
             "chars": [
                 "" 
             ]
