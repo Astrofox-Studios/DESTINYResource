@@ -402,6 +402,15 @@
         },
         {
             "type": "bitmap",
+            "file": "astro:custom/bossbarwipeout.png",
+            "ascent": 14,
+            "height": 40,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:_font/icons/teams/pinkpanthers.png",
             "ascent": 7,
             "height": 24,
