@@ -16,8 +16,8 @@
         {
             "type": "bitmap",
             "file": "minecraft:item/elytra.png",
-            "ascent": 7.5,
-            "height": 8,
+            "ascent": 9,
+            "height": 9,
             "chars": [
                 ""
             ]
