@@ -654,5 +654,10 @@
 		"sounds": [
            "custom/amazing"
 		]
+    },
+	"sound.custom.newlobby":{
+		"sounds": [
+           "custom/newlobby"
+		]
     }
 }
