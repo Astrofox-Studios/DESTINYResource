@@ -659,5 +659,10 @@
 		"sounds": [
            "custom/newlobby"
 		]
+    },
+	"sound.custom.movement":{
+		"sounds": [
+           "custom/movement"
+		]
     }
 }
