@@ -1,0 +1,76 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/raw_copper"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/1_makeshift_pistol"
+          },
+          "threshold": 1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/1_makeshift_smg"
+          },
+          "threshold": 2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/1_makeshift_ak"
+          },
+          "threshold": 3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_pistol"
+          },
+          "threshold": 4
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_smg"
+          },
+          "threshold": 5
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_ak"
+          },
+          "threshold": 6
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_ar"
+          },
+          "threshold": 7
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_famas"
+          },
+          "threshold": 8
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:splat/guns/2_sniper"
+          },
+          "threshold": 9
+        }
+      ]
+    }
+  }

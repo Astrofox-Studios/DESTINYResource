@@ -1,92 +1,594 @@
 {
- "parent": "item/handheld",
- "textures": {
- "layer0": "item/paper"
- },
- 
- "overrides": [
- {"predicate": {"custom_model_data":1}, "model": "item/weapons/snowballlaunch"},
- {"predicate": {"custom_model_data":2}, "model": "item/weapons/fireballlauncher"},
- {"predicate": {"custom_model_data":3}, "model": "item/weapons/cobweblauncher"},
- {"predicate": {"custom_model_data":4}, "model": "item/weapons/glock19"},
- {"predicate": {"custom_model_data":5}, "model": "item/weapons/ak47"},
- {"predicate": {"custom_model_data":6}, "model": "item/weapons/sniper"},
- {"predicate": {"custom_model_data":7}, "model": "item/weapons/shotgun1"},
- {"predicate": {"custom_model_data":8}, "model": "item/cosmetics/plushie1"},
- {"predicate": {"custom_model_data":300}, "model": "item/2d/air"},
- {"predicate": {"custom_model_data":301}, "model": "item/2d/earth"},
- {"predicate": {"custom_model_data":302}, "model": "item/2d/water"},
- {"predicate": {"custom_model_data":303}, "model": "item/2d/fire"},
- {"predicate": {"custom_model_data":304}, "model": "item/2d/power"},
- {"predicate": {"custom_model_data":305}, "model": "item/2d/air_jab"},
- {"predicate": {"custom_model_data":306}, "model": "item/2d/earth_jab"},
- {"predicate": {"custom_model_data":307}, "model": "item/2d/water_jab"},
- {"predicate": {"custom_model_data":308}, "model": "item/2d/fire_jab"},
- {"predicate": {"custom_model_data":309}, "model": "item/2d/power_jab"},
- {"predicate": {"custom_model_data":310}, "model": "item/2d/pk"},
- {"predicate": {"custom_model_data":311}, "model": "item/2d/glide"},
- {"predicate": {"custom_model_data":312}, "model": "item/2d/trident"},
- {"predicate": {"custom_model_data":313}, "model": "item/2d/blocks"},
- {"predicate": {"custom_model_data":314}, "model": "item/2d/boat"},
- {"predicate": {"custom_model_data":315}, "model": "item/2d/play"},
- {"predicate": {"custom_model_data":500}, "model": "item/2d/player"},
- {"predicate": {"custom_model_data":501}, "model": "item/2d/redracoons"},
- {"predicate": {"custom_model_data":502}, "model": "item/2d/orangeotters"},
- {"predicate": {"custom_model_data":503}, "model": "item/2d/firefoxes"},
- {"predicate": {"custom_model_data":504}, "model": "item/2d/greengoats"},
- {"predicate": {"custom_model_data":505}, "model": "item/2d/tealtigers"},
- {"predicate": {"custom_model_data":506}, "model": "item/2d/bluebadgers"},
- {"predicate": {"custom_model_data":507}, "model": "item/2d/purplepolarbears"},
- {"predicate": {"custom_model_data":508}, "model": "item/2d/pinkpanthers"},
- {"predicate": {"custom_model_data":509}, "model": "item/2d/spectator"},
- {"predicate": {"custom_model_data":510}, "model": "item/2d/cover"},
- {"predicate": {"custom_model_data":511}, "model": "item/2d/ready"},
- {"predicate": {"custom_model_data":512}, "model": "item/2d/info"},
- {"predicate": {"custom_model_data":513}, "model": "item/2d/vh/vh_bank"},
- {"predicate": {"custom_model_data":514}, "model": "item/2d/vh/vh_cam"},
- {"predicate": {"custom_model_data":515}, "model": "item/2d/vh/vh_enchant"},
- {"predicate": {"custom_model_data":516}, "model": "item/2d/vh/vh_turret"},
- {"predicate": {"custom_model_data":517}, "model": "item/2d/vh/vh_wall"},
- {"predicate": {"custom_model_data":518}, "model": "item/2d/vh/vh_wooldrop"},
- {"predicate": {"custom_model_data":519}, "model": "item/2d/vh/vh_force"},
- {"predicate": {"custom_model_data":520}, "model": "item/2d/vh/vh_red"},
- {"predicate": {"custom_model_data":521}, "model": "item/2d/vh/vh_pick"},
- {"predicate": {"custom_model_data":522}, "model": "item/2d/vh/vh_lost"},
- {"predicate": {"custom_model_data":523}, "model": "item/2d/lock"},
- {"predicate": {"custom_model_data":530}, "model": "item/2d/info"},
- {"predicate": {"custom_model_data":531}, "model": "item/weapons/lazar_gun"},
- {"predicate": {"custom_model_data":532}, "model": "item/weapons/screw_driver"},
- {"predicate": {"custom_model_data":533}, "model": "item/weapons/shield_powerup"},
- {"predicate": {"custom_model_data":534}, "model": "item/weapons/fuel_cell"},
- {"predicate": {"custom_model_data":535}, "model": "item/handhelds/coffee"},
- {"predicate": {"custom_model_data":536}, "model": "item/handhelds/juice"},
- {"predicate": {"custom_model_data":537}, "model": "item/handhelds/icecream"},
- {"predicate": {"custom_model_data":538}, "model": "item/2d/cover2"},
- {"predicate": {"custom_model_data":539}, "model": "item/handhelds/banana"},
- {"predicate": {"custom_model_data":540}, "model": "item/handhelds/coconut"},
- {"predicate": {"custom_model_data":541}, "model": "item/cosmetics/dyna"},
- {"predicate": {"custom_model_data":542}, "model": "item/cosmetics/grave"},
- {"predicate": {"custom_model_data":543}, "model": "item/cosmetics/grave_skull"},
- {"predicate": {"custom_model_data":544}, "model": "item/cosmetics/fox_head_statue_halloween"},
- {"predicate": {"custom_model_data":545}, "model": "item/cosmetics/grave_skull_glow"},
- {"predicate": {"custom_model_data":546}, "model": "item/cosmetics/witchhat"},
- {"predicate": {"custom_model_data":547}, "model": "item/cosmetics/staff"},
- {"predicate": {"custom_model_data":548}, "model": "item/2d/soul"},
- {"predicate": {"custom_model_data":549}, "model": "item/2d/gray_soul"},
- {"predicate": {"custom_model_data":550}, "model": "item/cosmetics/cat_ears"},
- {"predicate": {"custom_model_data":551}, "model": "item/cosmetics/ghost"},
- {"predicate": {"custom_model_data":552}, "model": "item/decor/destinysign"},
- {"predicate": {"custom_model_data":40001}, "model": "item/pots/shard_healing"},
- {"predicate": {"custom_model_data":40002}, "model": "item/pots/shard_speed"},
- {"predicate": {"custom_model_data":40008}, "model": "item/pots/shard_regeneration"}, 
- {"predicate": {"custom_model_data":40004}, "model": "item/pots/shard_levitation"},
- {"predicate": {"custom_model_data":40005}, "model": "item/pots/shard_jumpboost"},
- {"predicate": {"custom_model_data":40006}, "model": "item/pots/shard_strength"},
- {"predicate": {"custom_model_data":40007}, "model": "item/pots/shard_invis"},
- {"predicate": {"custom_model_data":6969420}, "model": "item/weapons/walkie"},
- {"predicate": {"custom_model_data":6969421}, "model": "item/2d/r_button"},
- {"predicate": {"custom_model_data":6969422}, "model": "item/2d/speaker"},
- {"predicate": {"custom_model_data":6969423}, "model": "item/2d/ticket"},
- {"predicate": {"custom_model_data":6969424}, "model": "item/2d/settings-tick"}
- ]
-}
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/paper"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/snowballlaunch"
+          },
+          "threshold": 1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/fireballlauncher"
+          },
+          "threshold": 2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/cobweblauncher"
+          },
+          "threshold": 3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/glock19"
+          },
+          "threshold": 4
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/ak47"
+          },
+          "threshold": 5
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/sniper"
+          },
+          "threshold": 6
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/shotgun1"
+          },
+          "threshold": 7
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/plushie1"
+          },
+          "threshold": 8
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/air"
+          },
+          "threshold": 300
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/earth"
+          },
+          "threshold": 301
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/water"
+          },
+          "threshold": 302
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/fire"
+          },
+          "threshold": 303
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/power"
+          },
+          "threshold": 304
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/air_jab"
+          },
+          "threshold": 305
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/earth_jab"
+          },
+          "threshold": 306
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/water_jab"
+          },
+          "threshold": 307
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/fire_jab"
+          },
+          "threshold": 308
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/power_jab"
+          },
+          "threshold": 309
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/pk"
+          },
+          "threshold": 310
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/glide"
+          },
+          "threshold": 311
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/trident"
+          },
+          "threshold": 312
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/blocks"
+          },
+          "threshold": 313
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/boat"
+          },
+          "threshold": 314
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/play"
+          },
+          "threshold": 315
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/player"
+          },
+          "threshold": 500
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/redracoons"
+          },
+          "threshold": 501
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/orangeotters"
+          },
+          "threshold": 502
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/firefoxes"
+          },
+          "threshold": 503
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/greengoats"
+          },
+          "threshold": 504
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/tealtigers"
+          },
+          "threshold": 505
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/bluebadgers"
+          },
+          "threshold": 506
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/purplepolarbears"
+          },
+          "threshold": 507
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/pinkpanthers"
+          },
+          "threshold": 508
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/spectator"
+          },
+          "threshold": 509
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/cover"
+          },
+          "threshold": 510
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/ready"
+          },
+          "threshold": 511
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/info"
+          },
+          "threshold": 512
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_bank"
+          },
+          "threshold": 513
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_cam"
+          },
+          "threshold": 514
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_enchant"
+          },
+          "threshold": 515
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_turret"
+          },
+          "threshold": 516
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_wall"
+          },
+          "threshold": 517
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_wooldrop"
+          },
+          "threshold": 518
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_force"
+          },
+          "threshold": 519
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_red"
+          },
+          "threshold": 520
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_pick"
+          },
+          "threshold": 521
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/vh_lost"
+          },
+          "threshold": 522
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/lock"
+          },
+          "threshold": 523
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/info"
+          },
+          "threshold": 530
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/lazar_gun"
+          },
+          "threshold": 531
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/screw_driver"
+          },
+          "threshold": 532
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/shield_powerup"
+          },
+          "threshold": 533
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/fuel_cell"
+          },
+          "threshold": 534
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/coffee"
+          },
+          "threshold": 535
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/juice"
+          },
+          "threshold": 536
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/icecream"
+          },
+          "threshold": 537
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/cover2"
+          },
+          "threshold": 538
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/banana"
+          },
+          "threshold": 539
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/coconut"
+          },
+          "threshold": 540
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/dyna"
+          },
+          "threshold": 541
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/grave"
+          },
+          "threshold": 542
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/grave_skull"
+          },
+          "threshold": 543
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/fox_head_statue_halloween"
+          },
+          "threshold": 544
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/grave_skull_glow"
+          },
+          "threshold": 545
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/witchhat"
+          },
+          "threshold": 546
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/staff"
+          },
+          "threshold": 547
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/soul"
+          },
+          "threshold": 548
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/gray_soul"
+          },
+          "threshold": 549
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/cat_ears"
+          },
+          "threshold": 550
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/ghost"
+          },
+          "threshold": 551
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/destinysign"
+          },
+          "threshold": 552
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_healing"
+          },
+          "threshold": 40001
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_speed"
+          },
+          "threshold": 40002
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_regeneration"
+          },
+          "threshold": 40008
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_levitation"
+          },
+          "threshold": 40004
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_jumpboost"
+          },
+          "threshold": 40005
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_strength"
+          },
+          "threshold": 40006
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/pots/shard_invis"
+          },
+          "threshold": 40007
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/walkie"
+          },
+          "threshold": 6969420
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/r_button"
+          },
+          "threshold": 6969421
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/speaker"
+          },
+          "threshold": 6969422
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/ticket"
+          },
+          "threshold": 6969423
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/settings-tick"
+          },
+          "threshold": 6969424
+        }
+      ]
+    }
+  }

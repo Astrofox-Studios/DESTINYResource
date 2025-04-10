@@ -1,0 +1,860 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/leather_horse_armor"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/head"
+          },
+          "threshold": 1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/rightleg"
+          },
+          "threshold": 2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/rightarm"
+          },
+          "threshold": 3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/leftleg"
+          },
+          "threshold": 4
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/leftarm"
+          },
+          "threshold": 5
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:stalker/body"
+          },
+          "threshold": 6
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/body"
+          },
+          "threshold": 7
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/head"
+          },
+          "threshold": 8
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/leg0"
+          },
+          "threshold": 9
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/leg1"
+          },
+          "threshold": 10
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/leg2"
+          },
+          "threshold": 11
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:creeper/leg3"
+          },
+          "threshold": 12
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/head"
+          },
+          "threshold": 13
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/rightarm"
+          },
+          "threshold": 14
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/leftarm"
+          },
+          "threshold": 15
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/body"
+          },
+          "threshold": 16
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/jaw"
+          },
+          "threshold": 17
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/neck"
+          },
+          "threshold": 18
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/upperleg2"
+          },
+          "threshold": 19
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/lowerleg2"
+          },
+          "threshold": 20
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/lowerarm2"
+          },
+          "threshold": 21
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/lowerleg"
+          },
+          "threshold": 22
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/upperleg"
+          },
+          "threshold": 23
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:face/lowerarm"
+          },
+          "threshold": 24
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/head"
+          },
+          "threshold": 25
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/rightleg"
+          },
+          "threshold": 26
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/rightarm"
+          },
+          "threshold": 27
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/leftleg"
+          },
+          "threshold": 28
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/leftarm"
+          },
+          "threshold": 29
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:mimic/body"
+          },
+          "threshold": 30
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/head"
+          },
+          "threshold": 31
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/rightleg"
+          },
+          "threshold": 32
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/rightarm"
+          },
+          "threshold": 33
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/leftleg"
+          },
+          "threshold": 34
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/leftarm"
+          },
+          "threshold": 35
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:skelly/body"
+          },
+          "threshold": 36
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/head"
+          },
+          "threshold": 37
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/tail1"
+          },
+          "threshold": 38
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodypart_2"
+          },
+          "threshold": 39
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bone2"
+          },
+          "threshold": 40
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodylayer_1"
+          },
+          "threshold": 41
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodypart_3"
+          },
+          "threshold": 42
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodypart_0"
+          },
+          "threshold": 43
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodypart_1"
+          },
+          "threshold": 44
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:snake/bodylayer_2"
+          },
+          "threshold": 45
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/head"
+          },
+          "threshold": 46
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/rightleg"
+          },
+          "threshold": 47
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/rightarm"
+          },
+          "threshold": 48
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/leftleg"
+          },
+          "threshold": 49
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/leftarm"
+          },
+          "threshold": 50
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "modelengine:zombie/body"
+          },
+          "threshold": 51
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/crown1"
+          },
+          "threshold": 100
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/bench1"
+          },
+          "threshold": 101
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/bench2"
+          },
+          "threshold": 102
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/advanced_bin"
+          },
+          "threshold": 103
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/pc"
+          },
+          "threshold": 104
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/monitor"
+          },
+          "threshold": 105
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/toilet"
+          },
+          "threshold": 106
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:cosmetics/ufo1"
+          },
+          "threshold": 107
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/gaming_chair"
+          },
+          "threshold": 108
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/monitor2"
+          },
+          "threshold": 109
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/ice_cooler"
+          },
+          "threshold": 111
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/basic_armchair"
+          },
+          "threshold": 112
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/advanced_armchair"
+          },
+          "threshold": 113
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/computer_keyboard"
+          },
+          "threshold": 114
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/turret"
+          },
+          "threshold": 115
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/bench3"
+          },
+          "threshold": 116
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/parasole"
+          },
+          "threshold": 117
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/computer"
+          },
+          "threshold": 118
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/polarbearplush"
+          },
+          "threshold": 119
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/turtleplush"
+          },
+          "threshold": 120
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/pandaplush"
+          },
+          "threshold": 121
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/thunderbolt"
+          },
+          "threshold": 122
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/exp_host_board"
+          },
+          "threshold": 123
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/astrofox_board"
+          },
+          "threshold": 124
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/tropiclash_board"
+          },
+          "threshold": 125
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/astrodestiny_board"
+          },
+          "threshold": 126
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/jump_board"
+          },
+          "threshold": 127
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/exclamationmark"
+          },
+          "threshold": 128
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/astrovertical_board"
+          },
+          "threshold": 129
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/checkpoint_hologram"
+          },
+          "threshold": 130
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/fan"
+          },
+          "threshold": 131
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/exp_host_board_new"
+          },
+          "threshold": 132
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/plushie1"
+          },
+          "threshold": 800
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head"
+          },
+          "threshold": 1000
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_white"
+          },
+          "threshold": 1001
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_arm"
+          },
+          "threshold": 1002
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white"
+          },
+          "threshold": 1003
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_pet"
+          },
+          "threshold": 1004
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"
+          },
+          "threshold": 1005
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"
+          },
+          "threshold": 1006
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/flower_cwown"
+          },
+          "threshold": 1007
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/beanie1"
+          },
+          "threshold": 1008
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/beanie2"
+          },
+          "threshold": 1009
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head"
+          },
+          "threshold": 1010
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head"
+          },
+          "threshold": 1011
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head"
+          },
+          "threshold": 1012
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
+          },
+          "threshold": 1013
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head"
+          },
+          "threshold": 1014
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head"
+          },
+          "threshold": 1015
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head"
+          },
+          "threshold": 1016
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head"
+          },
+          "threshold": 1017
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear"
+          },
+          "threshold": 1018
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear"
+          },
+          "threshold": 1019
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear"
+          },
+          "threshold": 1020
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear"
+          },
+          "threshold": 1021
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear"
+          },
+          "threshold": 1022
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear"
+          },
+          "threshold": 1023
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear"
+          },
+          "threshold": 1024
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
+          },
+          "threshold": 1025
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
+          },
+          "threshold": 1026
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/handhelds/fox_plushy"
+          },
+          "threshold": 1027
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_plush"
+          },
+          "threshold": 1028
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_plush"
+          },
+          "threshold": 1029
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_plush"
+          },
+          "threshold": 1030
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_plush"
+          },
+          "threshold": 1031
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/plant"
+          },
+          "threshold": 1100
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/server"
+          },
+          "threshold": 1101
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/cosmetics/ctf_flag"
+          },
+          "threshold": 1102
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/bench4"
+          },
+          "threshold": 1103
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/other/magic_arrow"
+          },
+          "threshold": 1200
+        }
+      ]
+    }
+  }
