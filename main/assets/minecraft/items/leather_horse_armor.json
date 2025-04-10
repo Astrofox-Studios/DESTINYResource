@@ -368,490 +368,910 @@
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/cosmetics/crown1"
+            "model": "minecraft:item/cosmetics/crown1",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 100
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/bench1"
+            "model": "minecraft:item/decor/bench1",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 101
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/bench2"
+            "model": "minecraft:item/decor/bench2",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 102
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/advanced_bin"
+            "model": "minecraft:item/decor/advanced_bin",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 103
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/pc"
+            "model": "minecraft:item/decor/pc",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 104
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/monitor"
+            "model": "minecraft:item/decor/monitor",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 105
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/toilet"
+            "model": "minecraft:item/decor/toilet",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 106
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:cosmetics/ufo1"
+            "model": "minecraft:cosmetics/ufo1",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 107
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/gaming_chair"
+            "model": "minecraft:item/decor/gaming_chair",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 108
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/monitor2"
+            "model": "minecraft:item/decor/monitor2",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 109
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/ice_cooler"
+            "model": "minecraft:item/decor/ice_cooler",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 111
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/basic_armchair"
+            "model": "minecraft:item/decor/basic_armchair",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 112
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/advanced_armchair"
+            "model": "minecraft:item/decor/advanced_armchair",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 113
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/computer_keyboard"
+            "model": "minecraft:item/decor/computer_keyboard",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 114
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/weapons/turret"
+            "model": "minecraft:item/weapons/turret",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 115
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/bench3"
+            "model": "minecraft:item/decor/bench3",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 116
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/parasole"
+            "model": "minecraft:item/decor/parasole",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 117
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/computer"
+            "model": "minecraft:item/decor/computer",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 118
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/cosmetics/polarbearplush"
+            "model": "minecraft:item/cosmetics/polarbearplush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 119
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/cosmetics/turtleplush"
+            "model": "minecraft:item/cosmetics/turtleplush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 120
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/cosmetics/pandaplush"
+            "model": "minecraft:item/cosmetics/pandaplush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 121
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/weapons/thunderbolt"
+            "model": "minecraft:item/weapons/thunderbolt",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 122
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/exp_host_board"
+            "model": "minecraft:item/decor/exp_host_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 123
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/astrofox_board"
+            "model": "minecraft:item/decor/astrofox_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 124
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/tropiclash_board"
+            "model": "minecraft:item/decor/tropiclash_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 125
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/astrodestiny_board"
+            "model": "minecraft:item/decor/astrodestiny_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 126
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/jump_board"
+            "model": "minecraft:item/decor/jump_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 127
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/exclamationmark"
+            "model": "minecraft:item/decor/exclamationmark",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 128
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/astrovertical_board"
+            "model": "minecraft:item/decor/astrovertical_board",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 129
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/checkpoint_hologram"
+            "model": "minecraft:item/decor/checkpoint_hologram",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 130
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/fan"
+            "model": "minecraft:item/decor/fan",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 131
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/exp_host_board_new"
+            "model": "minecraft:item/decor/exp_host_board_new",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 132
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/plushie1"
+            "model": "astro:cosmetics/astro_pass/1_20/plushie1",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 800
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1000
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head_white"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_white",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1001
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_arm"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_arm",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1002
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1003
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_pet"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_pet",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1004
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1005
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"
+            "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1006
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/flower_cwown"
+            "model": "astro:cosmetics/astro_pass/1_20/flower_cwown",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1007
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/beanie1"
+            "model": "astro:cosmetics/astro_pass/1_20/beanie1",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1008
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/beanie2"
+            "model": "astro:cosmetics/astro_pass/1_20/beanie2",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1009
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head"
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1010
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head"
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1011
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head"
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1012
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1013
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head"
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1014
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head"
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1015
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head"
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1016
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head"
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1017
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1018
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1019
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1020
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1021
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1022
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1023
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1024
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
+            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1025
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
+            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1026
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/handhelds/fox_plushy"
+            "model": "minecraft:item/handhelds/fox_plushy",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1027
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_plush"
+            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_plush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1028
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_plush"
+            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_plush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1029
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_plush"
+            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_plush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1030
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_plush"
+            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_plush",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1031
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/plant"
+            "model": "minecraft:item/decor/plant",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1100
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/server"
+            "model": "minecraft:item/decor/server",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1101
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/cosmetics/ctf_flag"
+            "model": "minecraft:item/cosmetics/ctf_flag",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1102
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/decor/bench4"
+            "model": "minecraft:item/decor/bench4",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1103
         },
         {
           "model": {
             "type": "minecraft:model",
-            "model": "minecraft:item/other/magic_arrow"
+            "model": "minecraft:item/other/magic_arrow",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
           },
           "threshold": 1200
         }
