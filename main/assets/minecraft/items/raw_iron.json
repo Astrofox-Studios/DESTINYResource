@@ -1,0 +1,244 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/raw_iron"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/arrow_left"
+          },
+          "threshold": 2000
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/arrow_right"
+          },
+          "threshold": 2001
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/castle"
+          },
+          "threshold": 2002
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/corrupted"
+          },
+          "threshold": 2003
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/domination"
+          },
+          "threshold": 2004
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/movement"
+          },
+          "threshold": 2005
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/movement_daily"
+          },
+          "threshold": 2006
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/splatshot"
+          },
+          "threshold": 2007
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/green_person"
+          },
+          "threshold": 2008
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/orange_person"
+          },
+          "threshold": 2009
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/red_person"
+          },
+          "threshold": 2010
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/astropass_free"
+          },
+          "threshold": 2011
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/astropass_unlocked"
+          },
+          "threshold": 2012
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/friends"
+          },
+          "threshold": 2013
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/shop"
+          },
+          "threshold": 2014
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/locker"
+          },
+          "threshold": 2015
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/settings"
+          },
+          "threshold": 2016
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/astropass_free_ani"
+          },
+          "threshold": 2017
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/astropass_unlocked_ani"
+          },
+          "threshold": 2018
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/friends_ani"
+          },
+          "threshold": 2019
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/shop_ani"
+          },
+          "threshold": 2020
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/locker_ani"
+          },
+          "threshold": 2021
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/quests"
+          },
+          "threshold": 2022
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/quests_ani"
+          },
+          "threshold": 2023
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/quests_free"
+          },
+          "threshold": 2024
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/quests_free_ani"
+          },
+          "threshold": 2025
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/plus"
+          },
+          "threshold": 2026
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/glider"
+          },
+          "threshold": 2027
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/lobby/tool"
+          },
+          "threshold": 2028
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/credit"
+          },
+          "threshold": 2029
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "astro:gui/selection"
+          },
+          "threshold": 2030
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/bountyhunters"
+          },
+          "threshold": 2031
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/bountyspawn"
+          },
+          "threshold": 2032
+        }
+      ]
+    }
+  }
