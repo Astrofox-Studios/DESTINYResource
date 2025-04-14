@@ -664,5 +664,10 @@
 		"sounds": [
            "custom/movement"
 		]
+    },
+	"sound.custom.goodmorning":{
+		"sounds": [
+           "custom/good-morning-destiny-gaymes"
+		]
     }
 }
