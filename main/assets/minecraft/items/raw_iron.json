@@ -238,6 +238,20 @@
             "model": "minecraft:item/decor/bountyspawn"
           },
           "threshold": 2032
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/stevele"
+          },
+          "threshold": 2033
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/sewa"
+          },
+          "threshold": 2034
         }
       ]
     }
