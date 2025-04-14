@@ -1,6 +1,7 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
+		"0": "block/orange_concrete",
 		"1": "block/quartz_block_top",
 		"2": "block/coal_block",
 		"particle": "block/orange_concrete"
