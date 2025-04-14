@@ -1274,6 +1274,19 @@
             ]
           },
           "threshold": 1200
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/decor/floaty",
+            "tints": [
+                {
+                    "type": "minecraft:dye",
+                    "default": -6265536
+                }
+            ]
+          },
+          "threshold": 2000
         }
       ]
     }
