@@ -2880,7 +2880,7 @@
   "gui.entity_tooltip.type": "Type: %s",
   "advancements.empty": "There doesn't seem to be anything here...",
   "advancements.sad_label": ":(",
-  "advancements.toast.task": "ɢᴀᴍᴇ ᴄʀᴇᴅɪᴛs",
+  "advancements.toast.task": "",
   "advancements.toast.challenge": "Challenge Complete!",
   "advancements.toast.goal": "ɴᴏᴡ ᴘʟᴀʏɪɴɢ:",
   "stats.tooltip.type.statistic": "Statistic",
