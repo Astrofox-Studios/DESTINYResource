@@ -600,6 +600,15 @@
         },
         {
             "type": "bitmap",
+            "file": "astro:custom/ctf.png", 
+            "ascent": 7.5,
+            "height": 8,
+            "chars": [
+                ""
+            ]
+        },
+        {
+            "type": "bitmap",
             "file": "astro:custom/wipeout.png", 
             "ascent": 7.5,
             "height": 8,
