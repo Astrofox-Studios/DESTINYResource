@@ -1,7 +1,3 @@
-+#ifndef TEXT_EFFECT
-+#define TEXT_EFFECT(r,g,b) void f()
-+#endif
-
 TEXT_EFFECT(240, 240, 0) {
     apply_shaking_movement();
     override_text_color(rgb(255, 82, 82));
