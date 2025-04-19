@@ -592,7 +592,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/decor/logy_sign"
+          "model": "minecraft:item/decor/logy_flag"
         },
         "threshold": 100000
       }
