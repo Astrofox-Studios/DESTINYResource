@@ -588,6 +588,13 @@
           "model": "minecraft:item/2d/settings-tick"
         },
         "threshold": 6969424
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/decor/logy_sign"
+        },
+        "threshold": 100000
       }
     ]
   }
