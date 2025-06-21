@@ -1,43 +1,37 @@
 #version 150
-#define VSH
-#define RENDERTYPE_TEXT
 
 #moj_import <fog.glsl>
 
-// These are inputs and outputs to the shader
-// If you are merging with a shader, put any inputs and outputs that they have, but are not here already, in the list below
 in vec3 Position;
 in vec4 Color;
 in vec2 UV0;
 in ivec2 UV2;
 
-uniform sampler2D Sampler0;
 uniform sampler2D Sampler2;
 
 uniform mat4 ModelViewMat;
 uniform mat4 ProjMat;
 uniform int FogShape;
-uniform float GameTime;
 uniform vec2 ScreenSize;
 
 out float vertexDistance;
-out vec4 baseColor;
-out vec4 lightColor;
 out vec4 vertexColor;
 out vec2 texCoord0;
 
-#moj_import <spheya_packs_impl.glsl>
-
 void main() {
-    gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
-
-    baseColor = Color;
-    lightColor = texelFetch(Sampler2, UV2 / 16, 0);
-    vertexColor = baseColor * lightColor;
+	gl_Position = ProjMat * ModelViewMat * vec4(Position, 1.0);
+    
     vertexDistance = fog_distance(Position, FogShape);
+    vertexColor = Color * texelFetch(Sampler2, UV2 / 16, 0);
     texCoord0 = UV0;
-
-    if(applySpheyaPacks()) return;
-
-    // When merging with another shader, you should put the code in their main() function below here
+	
+	// Delete sidebar numbers
+	if (gl_Position.z < 0.001 && gl_Position.z > -0.001 && gl_Position.x >= 0.93 && gl_Position.y >= -0.35 && vertexColor.g == 84.0/255.0 && vertexColor.b == 84.0/255.0 && vertexColor.r == 252.0/255.0) { 
+		gl_Position = ProjMat * ModelViewMat * vec4(ScreenSize + 100.0, 0.0, 0.0); // remove scoreboard numbers
+	} else if (Color == vec4(78/255., 92/255., 36/255., Color.a)) {
+        vertexColor = texelFetch(Sampler2, UV2 / 16, 0); // remove color from no shadow marker
+    } else if (Color == vec4(19/255., 23/255., 9/255., Color.a)) {
+        vertexColor = vec4(0); // remove shadow
+    }
 }
+
