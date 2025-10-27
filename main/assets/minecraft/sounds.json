@@ -484,6 +484,12 @@
 
 		]
     },
+	"sound.custom.wipeoutnew":{
+		"sounds": [
+           "custom/newwipeout"
+
+		]
+    },
 	"sound.custom.lobby":{
 		"sounds": [
            "custom/lobby/lobby"
