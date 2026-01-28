@@ -358,18 +358,10 @@
 
 	"sound.custom.click":{
 		"sounds": [
-			{
-				"name": "custom/click1"
-			},
-			{
-				"name": "custom/click2"
-			},
-			{
-				"name": "custom/click3"
-			}
+           "custom/click1"
 
 		]
-	},
+    },
 
 	"sound.custom.shard":{
 		"sounds": [
@@ -385,6 +377,18 @@
 
 		]
 	},
+	"sound.custom.nav":{
+		"sounds": [
+           "custom/nav"
+
+		]
+    },
+	"sound.custom.settings":{
+		"sounds": [
+           "custom/settings"
+
+		]
+    },
 	"sound.custom.cataclysm":{
 		"sounds": [
            "custom/cataclysm"
