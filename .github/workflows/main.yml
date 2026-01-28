@@ -5,7 +5,7 @@ permissions:
 jobs:
   packsquash:
     name: Optimize resource pack
-    runs-on: ubuntu-latest
+    runs-on: blacksmith-4vcpu-ubuntu-2404
     steps:
       - name: Clone repository
         uses: actions/checkout@v3
