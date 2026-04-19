@@ -13,7 +13,8 @@
     {"predicate": {"custom_model_data":6}, "model": "astro:splat/guns/2_ak"},
     {"predicate": {"custom_model_data":7}, "model": "astro:splat/guns/2_ar"},
     {"predicate": {"custom_model_data":8}, "model": "astro:splat/guns/2_famas"},
-    {"predicate": {"custom_model_data":9}, "model": "astro:splat/guns/2_sniper"}
+    {"predicate": {"custom_model_data":9}, "model": "astro:splat/guns/2_sniper"},
+    {"predicate": {"custom_model_data":10}, "model": "astro:splat/guns/pump_shotgun"}
 
     ]
 }
