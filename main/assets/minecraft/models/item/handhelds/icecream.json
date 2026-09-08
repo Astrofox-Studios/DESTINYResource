@@ -1,9 +1,9 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "minecraft:item/mirrored/block/beehive_end",
-    "1": "item/handhelds/icecreammain",
-    "particle": "item/handhelds/icecreammain"
+    "0": "block/beehive_end",
+    "1": "minecraft:block/mirrored/item/handhelds/icecreammain",
+    "particle": "block/beehive_end"
   },
   "elements": [
     {

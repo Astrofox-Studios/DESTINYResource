@@ -5,11 +5,11 @@
     8
   ],
   "textures": {
-    "0": "minecraft:item/mirrored/block/red_terracotta",
-    "1": "minecraft:item/mirrored/block/stripped_crimson_stem_top",
-    "2": "minecraft:item/mirrored/block/black_terracotta",
-    "3": "item/Cosmetics/dyna_flame",
-    "particle": "item/Cosmetics/dyna_flame"
+    "0": "block/red_terracotta",
+    "1": "block/stripped_crimson_stem_top",
+    "2": "block/black_terracotta",
+    "3": "minecraft:block/mirrored/item/Cosmetics/dyna_flame",
+    "particle": "block/red_terracotta"
   },
   "elements": [
     {

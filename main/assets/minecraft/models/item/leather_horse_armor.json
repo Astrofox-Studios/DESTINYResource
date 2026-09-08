@@ -1,734 +1,428 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-        "layer0": "item/leather_horse_armor"
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/leather_horse_armor"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 100
+      },
+      "model": "item/cosmetics/crown1"
     },
-    "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1
-            },
-            "model": "modelengine:stalker/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2
-            },
-            "model": "modelengine:stalker/rightleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 3
-            },
-            "model": "modelengine:stalker/rightarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 4
-            },
-            "model": "modelengine:stalker/leftleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 5
-            },
-            "model": "modelengine:stalker/leftarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 6
-            },
-            "model": "modelengine:stalker/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 7
-            },
-            "model": "modelengine:creeper/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 8
-            },
-            "model": "modelengine:creeper/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 9
-            },
-            "model": "modelengine:creeper/leg0"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 10
-            },
-            "model": "modelengine:creeper/leg1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 11
-            },
-            "model": "modelengine:creeper/leg2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 12
-            },
-            "model": "modelengine:creeper/leg3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 13
-            },
-            "model": "modelengine:face/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 14
-            },
-            "model": "modelengine:face/rightarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 15
-            },
-            "model": "modelengine:face/leftarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 16
-            },
-            "model": "modelengine:face/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 17
-            },
-            "model": "modelengine:face/jaw"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 18
-            },
-            "model": "modelengine:face/neck"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 19
-            },
-            "model": "modelengine:face/upperleg2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20
-            },
-            "model": "modelengine:face/lowerleg2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 21
-            },
-            "model": "modelengine:face/lowerarm2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 22
-            },
-            "model": "modelengine:face/lowerleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 23
-            },
-            "model": "modelengine:face/upperleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 24
-            },
-            "model": "modelengine:face/lowerarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 25
-            },
-            "model": "modelengine:mimic/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 26
-            },
-            "model": "modelengine:mimic/rightleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 27
-            },
-            "model": "modelengine:mimic/rightarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 28
-            },
-            "model": "modelengine:mimic/leftleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 29
-            },
-            "model": "modelengine:mimic/leftarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 30
-            },
-            "model": "modelengine:mimic/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 31
-            },
-            "model": "modelengine:skelly/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 32
-            },
-            "model": "modelengine:skelly/rightleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 33
-            },
-            "model": "modelengine:skelly/rightarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 34
-            },
-            "model": "modelengine:skelly/leftleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 35
-            },
-            "model": "modelengine:skelly/leftarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 36
-            },
-            "model": "modelengine:skelly/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 37
-            },
-            "model": "modelengine:snake/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 38
-            },
-            "model": "modelengine:snake/tail1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 39
-            },
-            "model": "modelengine:snake/bodypart_2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 40
-            },
-            "model": "modelengine:snake/bone2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 41
-            },
-            "model": "modelengine:snake/bodylayer_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 42
-            },
-            "model": "modelengine:snake/bodypart_3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 43
-            },
-            "model": "modelengine:snake/bodypart_0"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 44
-            },
-            "model": "modelengine:snake/bodypart_1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 45
-            },
-            "model": "modelengine:snake/bodylayer_2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 46
-            },
-            "model": "modelengine:zombie/head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 47
-            },
-            "model": "modelengine:zombie/rightleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 48
-            },
-            "model": "modelengine:zombie/rightarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 49
-            },
-            "model": "modelengine:zombie/leftleg"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 50
-            },
-            "model": "modelengine:zombie/leftarm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 51
-            },
-            "model": "modelengine:zombie/body"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 100
-            },
-            "model": "item/cosmetics/crown1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 101
-            },
-            "model": "item/decor/bench1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 102
-            },
-            "model": "item/decor/bench2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 103
-            },
-            "model": "item/decor/advanced_bin"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 104
-            },
-            "model": "item/decor/pc"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 105
-            },
-            "model": "item/decor/monitor"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 106
-            },
-            "model": "item/decor/toilet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 107
-            },
-            "model": "cosmetics/ufo1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 108
-            },
-            "model": "item/decor/gaming_chair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 109
-            },
-            "model": "item/decor/monitor2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 111
-            },
-            "model": "item/decor/ice_cooler"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 112
-            },
-            "model": "item/decor/basic_armchair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 113
-            },
-            "model": "item/decor/advanced_armchair"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 114
-            },
-            "model": "item/decor/computer_keyboard"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 115
-            },
-            "model": "item/weapons/turret"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 116
-            },
-            "model": "item/decor/bench3"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 117
-            },
-            "model": "item/decor/parasole"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 118
-            },
-            "model": "item/decor/computer"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 119
-            },
-            "model": "item/cosmetics/polarbearplush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 120
-            },
-            "model": "item/cosmetics/turtleplush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 121
-            },
-            "model": "item/cosmetics/pandaplush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 122
-            },
-            "model": "item/weapons/thunderbolt"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 123
-            },
-            "model": "item/decor/exp_host_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 124
-            },
-            "model": "item/decor/astrofox_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 125
-            },
-            "model": "item/decor/tropiclash_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 126
-            },
-            "model": "item/decor/astrodestiny_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 127
-            },
-            "model": "item/decor/jump_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 128
-            },
-            "model": "item/decor/exclamationmark"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 129
-            },
-            "model": "item/decor/astrovertical_board"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 130
-            },
-            "model": "item/decor/checkpoint_hologram"
-        },
-   	{
-            "predicate": {
-                "custom_model_data": 131
-            },
-            "model": "item/decor/fan"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 132
-            },
-            "model": "item/decor/exp_host_board_new"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 800
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/plushie1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1000
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1001
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head_white"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1002
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_arm"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1003
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1004
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_pet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1005
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1006
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1007
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/flower_cwown"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1008
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/beanie1"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1009
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/beanie2"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1010
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1011
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1012
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1013
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1014
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1015
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1016
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1017
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1018
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1019
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1020
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1021
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1022
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1023
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1024
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1025
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1026
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1027
-            },
-            "model": "item/handhelds/fox_plushy"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1028
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_plush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1029
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_plush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1030
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_plush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1031
-            },
-            "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_plush"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1100
-            },
-            "model": "item/decor/plant"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1101
-            },
-            "model": "item/decor/server"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1102
-            },
-            "model": "item/cosmetics/ctf_flag"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1103
-            },
-            "model": "item/decor/bench4"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1200
-            },
-            "model": "item/other/magic_arrow"
-        }
-    ]
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "item/decor/bench1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "item/decor/bench2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 103
+      },
+      "model": "item/decor/advanced_bin"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 104
+      },
+      "model": "item/decor/pc"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 105
+      },
+      "model": "item/decor/monitor"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 106
+      },
+      "model": "item/decor/toilet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 107
+      },
+      "model": "cosmetics/ufo1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 108
+      },
+      "model": "item/decor/gaming_chair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 109
+      },
+      "model": "item/decor/monitor2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 111
+      },
+      "model": "item/decor/ice_cooler"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 112
+      },
+      "model": "item/decor/basic_armchair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 113
+      },
+      "model": "item/decor/advanced_armchair"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 114
+      },
+      "model": "item/decor/computer_keyboard"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 115
+      },
+      "model": "item/weapons/turret"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 116
+      },
+      "model": "item/decor/bench3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 117
+      },
+      "model": "item/decor/parasole"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 118
+      },
+      "model": "item/decor/computer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 119
+      },
+      "model": "item/cosmetics/polarbearplush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 120
+      },
+      "model": "item/cosmetics/turtleplush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 121
+      },
+      "model": "item/cosmetics/pandaplush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 122
+      },
+      "model": "item/weapons/thunderbolt"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 123
+      },
+      "model": "item/decor/exp_host_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 124
+      },
+      "model": "item/decor/astrofox_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 125
+      },
+      "model": "item/decor/tropiclash_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 126
+      },
+      "model": "item/decor/astrodestiny_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 127
+      },
+      "model": "item/decor/jump_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 128
+      },
+      "model": "item/decor/exclamationmark"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 129
+      },
+      "model": "item/decor/astrovertical_board"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 130
+      },
+      "model": "item/decor/checkpoint_hologram"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 131
+      },
+      "model": "item/decor/fan"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 132
+      },
+      "model": "item/decor/exp_host_board_new"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 800
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/plushie1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1000
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_head_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_arm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_arm_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1004
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_pet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1005
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_pet_white"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1006
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/giraffe_pet"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1007
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/flower_cwown"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1008
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/beanie1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1009
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/beanie2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1010
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1011
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1012
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1013
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1014
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1015
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1016
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1017
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1018
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/red_raccoon_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1019
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/orange_otter_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1020
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1021
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1022
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1023
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1024
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/purple_puffins_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1025
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/pink_panthers_head_clear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1026
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fox_head_statue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1027
+      },
+      "model": "item/handhelds/fox_plushy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1028
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/blue_belugas_plush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1029
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/cyan_crabs_plush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1030
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/fire_foxes_plush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1031
+      },
+      "model": "astro:cosmetics/astro_pass/1_20/green_giraffe_plush"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1100
+      },
+      "model": "item/decor/plant"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1101
+      },
+      "model": "item/decor/server"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1102
+      },
+      "model": "item/cosmetics/ctf_flag"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1103
+      },
+      "model": "item/decor/bench4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1200
+      },
+      "model": "item/other/magic_arrow"
+    }
+  ]
 }

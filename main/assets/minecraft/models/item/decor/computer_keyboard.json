@@ -1,10 +1,10 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "1": "item/bench2",
-    "2": "minecraft:item/mirrored/block/keyboard1",
-    "3": "minecraft:item/mirrored/block/mouse1",
-    "particle": "item/bench2"
+    "1": "minecraft:block/mirrored/item/bench2",
+    "2": "block/keyboard1",
+    "3": "block/mouse1",
+    "particle": "block/gray_wool"
   },
   "elements": [
     {

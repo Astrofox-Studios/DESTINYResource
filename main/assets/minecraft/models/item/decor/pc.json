@@ -1,15 +1,16 @@
 {
   "credit": "Made with Blockbench",
   "textures": {
-    "0": "minecraft:item/mirrored/block/light_gray_stained_glass",
-    "1": "minecraft:item/mirrored/block/light_terracotta",
-    "2": "minecraft:item/mirrored/block/red_nether_bricks",
-    "4": "minecraft:item/mirrored/block/light_gray_terracotta",
-    "5": "minecraft:item/mirrored/block/shroomlight",
-    "6": "minecraft:item/mirrored/block/dark_prismarine",
-    "7": "item/ufo",
-    "8": "minecraft:item/mirrored/block/pc",
-    "particle": "item/ufo"
+    "0": "block/light_gray_stained_glass",
+    "1": "block/light_terracotta",
+    "2": "block/red_nether_bricks",
+    "4": "block/light_gray_terracotta",
+    "5": "block/shroomlight",
+    "6": "block/dark_prismarine",
+    "7": "minecraft:block/mirrored/item/ufo",
+    "8": "block/pc",
+    "particle": "block/light_gray_stained_glass",
+    "missing": "block/blank"
   },
   "elements": [
     {
