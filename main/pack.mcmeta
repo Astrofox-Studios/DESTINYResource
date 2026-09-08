@@ -1,7 +1,6 @@
 ﻿{
     "pack": {
         "description": "The pack made for Destiny Games!",
-        "min_format": 88,
-        "max_format": 88
+        "pack_format": 88
     }
 }
