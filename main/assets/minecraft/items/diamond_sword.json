@@ -1,0 +1,41 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/diamond_sword"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/firesword"
+          },
+          "threshold": 1
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/watersword"
+          },
+          "threshold": 2
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/earthsword"
+          },
+          "threshold": 3
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/weapons/airsword"
+          },
+          "threshold": 4
+        }
+      ]
+    }
+  }
