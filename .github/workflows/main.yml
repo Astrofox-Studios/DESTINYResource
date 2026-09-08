@@ -23,8 +23,13 @@ jobs:
             # Set a custom output file path to work with the generated ZIP file
             # without needing to download its artifact in a separate step
             output_file_path = '/tmp/pack.zip'
-            zip_spec_conformance_level = 'disregard'
-            size_increasing_zip_obfuscation = true
+
+            # 'pedantic' produces fully spec-conformant ZIP files that any client can open.
+            # Previously this was set to 'disregard' (+ size_increasing_zip_obfuscation) as a
+            # light anti-extraction measure, but PackSquash's own docs note that non-conformant
+            # ZIPs are handled inconsistently across Minecraft clients/Java versions, which was
+            # causing packs to fail to apply for some players (ZipException: Invalid CEN header).
+            zip_spec_conformance_level = 'pedantic'
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
