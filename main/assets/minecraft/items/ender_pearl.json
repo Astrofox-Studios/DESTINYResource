@@ -1,0 +1,55 @@
+{
+    "model": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "index": 0,
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/ender_pearl"
+      },
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/archer"
+          },
+          "threshold": 524
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/defend"
+          },
+          "threshold": 525
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/potions"
+          },
+          "threshold": 526
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/spoon"
+          },
+          "threshold": 527
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/swords"
+          },
+          "threshold": 528
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/2d/vh/tank"
+          },
+          "threshold": 529
+        }
+      ]
+    }
+  }
