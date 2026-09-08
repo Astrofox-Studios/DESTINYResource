@@ -30,8 +30,15 @@ jobs:
             # ZIPs are handled inconsistently across Minecraft clients/Java versions, which was
             # causing packs to fail to apply for some players (ZipException: Invalid CEN header).
             zip_spec_conformance_level = 'pedantic'
+      - name: Compute pack hash
+        id: pack_hash
+        run: echo "sha1=$(sha1sum /tmp/pack.zip | cut -d ' ' -f 1)" >> "$GITHUB_OUTPUT"
       - name: Tag and create release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: v${{ github.run_number }}
           files: /tmp/pack.zip
+          body: |
+            SHA1: `${{ steps.pack_hash.outputs.sha1 }}`
+
+            Set this as `resource-pack-sha1` in server.properties.
