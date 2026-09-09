@@ -42,7 +42,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:custom/ycredit.png",
+            "file": "astro:custom/coin.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -51,7 +51,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:custom/gcredit.png",
+            "file": "astro:custom/star.png",
             "ascent": 7.5,
             "height": 8,
             "chars": [
@@ -456,7 +456,7 @@
         },
         {
             "type": "bitmap",
-            "file": "astro:custom/ycredit.png",
+            "file": "astro:custom/coin.png",
             "ascent": 7.5,
             "height": 16,
             "chars": [

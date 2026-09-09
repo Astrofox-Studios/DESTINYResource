@@ -679,5 +679,50 @@
 		"sounds": [
            "custom/good-morning-destiny-gaymes"
 		]
+    },
+	"sound.custom.dodgeball":{
+		"sounds": [
+           "custom/dodgeball/dodgeballmain"
+		]
+    },
+	"sound.custom.queue_start":{
+		"sounds": [
+           "custom/queue_start"
+		]
+    },
+	"sound.custom.queue_pip":{
+		"sounds": [
+           "custom/queue_pip"
+		]
+    },
+	"sound.custom.queue_teleport":{
+		"sounds": [
+           "custom/queue_teleport"
+		]
+    },
+	"sound.custom.info":{
+		"sounds": [
+           "custom/info"
+		]
+    },
+	"sound.custom.announcement":{
+		"sounds": [
+           "custom/announcement"
+		]
+    },
+	"sound.custom.friend_request":{
+		"sounds": [
+           "custom/friend_request"
+		]
+    },
+	"sound.custom.party_request":{
+		"sounds": [
+           "custom/party_request"
+		]
+    },
+	"sound.custom.level_up":{
+		"sounds": [
+           "custom/level_up"
+		]
     }
 }

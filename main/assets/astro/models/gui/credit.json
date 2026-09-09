@@ -6,6 +6,6 @@
 		}
 	},
   "textures": {
-    "layer0": "item/2d/ycredit"
+    "layer0": "item/2d/coin"
   }
 }
